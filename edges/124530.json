@@ -1,0 +1,1 @@
+{"name": "Bränslen", "id": 124530, "predecessors": [{"name": "Energiteknik", "id": 117552}, {"name": "Kemikalier", "id": 121942}], "successors": [{"name": "Raketbränslen", "id": 641427}, {"name": "Fossila_bränslen", "id": 732574}, {"name": "Biobränslen", "id": 732664}, {"name": "Energigas", "id": 8675299}, {"name": "Torvkyrkobyggnader", "id": 8145516}]}
