@@ -1,1 +1,1 @@
-{"name": "Datornätverk", "id": 244109, "predecessors": [{"name": "Datorkommunikation", "id": 62560}, {"name": "Nätverk", "id": 609112}], "successors": [{"name": "Internet", "id": 57109}, {"name": "IRC-nätverk", "id": 227398}, {"name": "Nätverksklasser", "id": 570255}]}
+{"name": "Datornätverk", "id": 244109, "predecessors": [{"name": "Datorkommunikation", "id": 62560}, {"name": "Organisation", "id": 66482}], "successors": [{"name": "Internet", "id": 57109}]}

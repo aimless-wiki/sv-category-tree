@@ -1,1 +1,1 @@
-{"name": "Musikprogram_på_TV", "id": 736575, "predecessors": [{"name": "TV-program", "id": 50730}, {"name": "Filmljud", "id": 778028}], "successors": [{"name": "Populärmusikprogram_på_TV", "id": 1052073}]}
+{"name": "Musikprogram_på_TV", "id": 736575, "predecessors": [{"name": "Kultur", "id": 54878}, {"name": "Musik", "id": 51164}], "successors": [{"name": "Populärmusikprogram_på_TV", "id": 1052073}]}

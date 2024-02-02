@@ -1,1 +1,1 @@
-{"name": "Tidmätning", "id": 113349, "predecessors": [{"name": "Teknik", "id": 50676}, {"name": "Tillämpad_matematik", "id": 443639}, {"name": "Dimension", "id": 3961155}], "successors": [{"name": "Datering", "id": 326530}, {"name": "Tidsenheter", "id": 686862}]}
+{"name": "Tidmätning", "id": 113349, "predecessors": [{"name": "Teknik", "id": 50676}, {"name": "Kunskap", "id": 591587}, {"name": "Geometri", "id": 51629}], "successors": [{"name": "Tidsenheter", "id": 686862}]}

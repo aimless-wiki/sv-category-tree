@@ -1,1 +1,1 @@
-{"name": "Spelare_i_Ferencváros_TC", "id": 1050469, "predecessors": [{"name": "Fotbollsklubbar_i_Ungern", "id": 727040}, {"name": "Sport", "id": 55124}], "successors": []}
+{"name": "Spelare_i_Ferencváros_TC", "id": 1050469, "predecessors": [{"name": "Fotboll", "id": 51559}, {"name": "Sport", "id": 55124}], "successors": []}

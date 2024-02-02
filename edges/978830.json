@@ -1,1 +1,1 @@
-{"name": "Mediefaktamallar", "id": 978830, "predecessors": [{"name": "Mediemallar", "id": 978832}], "successors": [{"name": "Musikfaktamallar", "id": 950941}]}
+{"name": "Mediefaktamallar", "id": 978830, "predecessors": [{"name": "Faktamallar", "id": 189369}, {"name": "Massmedia", "id": 4503326}], "successors": [{"name": "Musikfaktamallar", "id": 950941}]}

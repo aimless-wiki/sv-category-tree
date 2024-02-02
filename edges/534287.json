@@ -1,1 +1,1 @@
-{"name": "Spanska_fotbollsmålvakter", "id": 534287, "predecessors": [{"name": "Fotbollsmålvakter", "id": 460353}, {"name": "Spanska_fotbollsspelare", "id": 97300}, {"name": "Sport", "id": 55124}], "successors": []}
+{"name": "Spanska_fotbollsmålvakter", "id": 534287, "predecessors": [{"name": "Spanska_fotbollsspelare", "id": 97300}, {"name": "Fotboll", "id": 51559}, {"name": "Sport", "id": 55124}], "successors": []}

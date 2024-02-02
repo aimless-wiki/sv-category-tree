@@ -1,1 +1,1 @@
-{"name": "Förskola", "id": 801261, "predecessors": [{"name": "Barnomsorg", "id": 497615}, {"name": "Skolformer", "id": 426105}], "successors": [{"name": "Förskolor_i_Sverige", "id": 1436476}]}
+{"name": "Förskola", "id": 801261, "predecessors": [{"name": "Skolformer", "id": 426105}, {"name": "Samhällsinsatser_för_barn", "id": 1490843}], "successors": []}

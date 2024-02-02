@@ -1,1 +1,1 @@
-{"name": "Franska_dramafilmer", "id": 673875, "predecessors": [{"name": "Franska_filmer", "id": 54850}, {"name": "Filmgenrer", "id": 598019}], "successors": [{"name": "Franska_dramakomedifilmer", "id": 2802610}]}
+{"name": "Franska_dramafilmer", "id": 673875, "predecessors": [{"name": "Film", "id": 50715}, {"name": "Filmgenrer", "id": 598019}], "successors": []}

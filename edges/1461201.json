@@ -1,1 +1,1 @@
-{"name": "Svärd", "id": 1461201, "predecessors": [{"name": "Blankvapen", "id": 1033092}, {"name": "Fäktning", "id": 290981}], "successors": [{"name": "Enskilda_svärd", "id": 8692327}, {"name": "Fiktiva_svärd", "id": 8692328}]}
+{"name": "Svärd", "id": 1461201, "predecessors": [{"name": "Kampsporter", "id": 57859}, {"name": "Närstridsvapen", "id": 210076}], "successors": []}

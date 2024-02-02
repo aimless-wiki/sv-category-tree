@@ -1,1 +1,1 @@
-{"name": "Val_till_Sveriges_riksdags_andra_kammare", "id": 1074606, "predecessors": [{"name": "Riksdagsval_i_Sverige", "id": 378298}, {"name": "Sveriges_tvåkammarriksdag", "id": 1074460}], "successors": []}
+{"name": "Val_till_Sveriges_riksdags_andra_kammare", "id": 1074606, "predecessors": [{"name": "Sveriges_tvåkammarriksdag", "id": 1074460}, {"name": "Sveriges_riksdag", "id": 314214}], "successors": []}

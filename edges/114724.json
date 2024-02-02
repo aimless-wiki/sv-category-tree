@@ -1,1 +1,1 @@
-{"name": "Stränginstrument", "id": 114724, "predecessors": [{"name": "Musikinstrument", "id": 50620}], "successors": [{"name": "Stråkinstrument", "id": 135636}, {"name": "Gitarrer", "id": 597370}, {"name": "Nyckelharpister", "id": 207669}, {"name": "Psalmodikonspelare", "id": 8569401}]}
+{"name": "Stränginstrument", "id": 114724, "predecessors": [{"name": "Musikinstrument", "id": 50620}], "successors": [{"name": "Stråkinstrument", "id": 135636}, {"name": "Gitarrer", "id": 597370}, {"name": "Nyckelharpister", "id": 207669}]}

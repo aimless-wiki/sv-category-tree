@@ -1,1 +1,1 @@
-{"name": "Gravfält_i_Sverige", "id": 1234621, "predecessors": [{"name": "Begravningsplatser_i_Sverige", "id": 383475}, {"name": "Fornminnen_i_Sverige", "id": 937776}, {"name": "Gravfält", "id": 581858}], "successors": []}
+{"name": "Gravfält_i_Sverige", "id": 1234621, "predecessors": [{"name": "Fornminnen", "id": 581849}, {"name": "Begravning", "id": 109741}, {"name": "Kultur_i_Sverige", "id": 738122}], "successors": []}

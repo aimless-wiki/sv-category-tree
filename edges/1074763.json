@@ -1,1 +1,1 @@
-{"name": "Londons_tunnelbanestationer", "id": 1074763, "predecessors": [{"name": "Londons_tunnelbana", "id": 621855}, {"name": "Tunnelbanestationer", "id": 510803}], "successors": []}
+{"name": "Londons_tunnelbanestationer", "id": 1074763, "predecessors": [{"name": "Järnväg", "id": 56116}, {"name": "Byggnader_och_anläggningar_i_London", "id": 649894}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Curlingtävlingar", "id": 3952401, "predecessors": [{"name": "Issport", "id": 124421}, {"name": "Sportevenemang", "id": 426759}], "successors": []}
+{"name": "Curlingtävlingar", "id": 3952401, "predecessors": [{"name": "Lagsport", "id": 1018207}, {"name": "Sport", "id": 55124}], "successors": [{"name": "Tävlande_i_curling_vid_olympiska_vinterspelen_2006", "id": 2499781}, {"name": "Tävlande_i_curling_vid_olympiska_vinterspelen_1998", "id": 2487965}]}

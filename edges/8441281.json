@@ -1,1 +1,1 @@
-{"name": "Stadshus_i_Sverige", "id": 8441281, "predecessors": [{"name": "Sveriges_kommuner", "id": 54616}, {"name": "Offentliga_rum", "id": 1074410}, {"name": "Förvaltning", "id": 257102}], "successors": [{"name": "Stockholms_stadshus", "id": 1007743}]}
+{"name": "Stadshus_i_Sverige", "id": 8441281, "predecessors": [{"name": "Sveriges_kommuner", "id": 54616}, {"name": "Sveriges_samhälle", "id": 833353}, {"name": "Arkitektur", "id": 51576}], "successors": []}

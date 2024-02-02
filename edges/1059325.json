@@ -1,1 +1,1 @@
-{"name": "Svenska_mejerier", "id": 1059325, "predecessors": [{"name": "Svenska_dryckestillverkare", "id": 3965257}, {"name": "Svenska_livsmedelsföretag", "id": 442836}, {"name": "Mejeriindustri", "id": 481897}], "successors": [{"name": "Svenska_ostar", "id": 1037622}, {"name": "Arla_Foods", "id": 4904963}]}
+{"name": "Svenska_mejerier", "id": 1059325, "predecessors": [{"name": "Svenska_livsmedelsföretag", "id": 442836}, {"name": "Livsmedelsindustri", "id": 130412}, {"name": "Drycker", "id": 57613}], "successors": [{"name": "Svenska_ostar", "id": 1037622}]}

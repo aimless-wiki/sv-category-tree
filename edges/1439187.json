@@ -1,1 +1,1 @@
-{"name": "Spelare_i_FK_Anzji_Machatjkala", "id": 1439187, "predecessors": [{"name": "Fotboll_i_Ryssland", "id": 598394}, {"name": "Fotbollsklubbar_i_Ryssland", "id": 726748}], "successors": []}
+{"name": "Spelare_i_FK_Anzji_Machatjkala", "id": 1439187, "predecessors": [{"name": "Fotbollsklubbar_i_Ryssland", "id": 726748}, {"name": "Sport", "id": 55124}], "successors": []}

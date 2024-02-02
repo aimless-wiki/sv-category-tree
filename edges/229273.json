@@ -1,1 +1,1 @@
-{"name": "Svenska_sportskyttar", "id": 229273, "predecessors": [{"name": "Politisk_geografi", "id": 339140}, {"name": "Sportskytte", "id": 418367}, {"name": "Sport", "id": 55124}], "successors": [{"name": "Svenska_skidskyttar", "id": 65577}]}
+{"name": "Svenska_sportskyttar", "id": 229273, "predecessors": [{"name": "Topp", "id": 113605}, {"name": "Vapen", "id": 60525}, {"name": "Sport", "id": 55124}], "successors": [{"name": "Svenska_skidskyttar", "id": 65577}]}

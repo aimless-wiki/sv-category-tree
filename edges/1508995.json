@@ -1,1 +1,1 @@
-{"name": "Paris_tunnelbanestationer", "id": 1508995, "predecessors": [{"name": "Tunnelbanestationer", "id": 510803}, {"name": "Byggnader_och_anläggningar_i_Paris", "id": 866482}], "successors": []}
+{"name": "Paris_tunnelbanestationer", "id": 1508995, "predecessors": [{"name": "Järnväg", "id": 56116}, {"name": "Byggnader_och_anläggningar_i_Paris", "id": 866482}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Landskapsmålningar", "id": 6451023, "predecessors": [{"name": "Landskap", "id": 139615}, {"name": "Landskapsmåleri", "id": 1384470}, {"name": "Materia", "id": 828393}], "successors": [{"name": "Marinmålningar", "id": 6800572}, {"name": "Stadsbildsmålningar", "id": 8323143}]}
+{"name": "Landskapsmålningar", "id": 6451023, "predecessors": [{"name": "Politisk_geografi", "id": 339140}, {"name": "Målarkonst", "id": 6232165}, {"name": "Grundläggande_fysikaliska_begrepp", "id": 431613}], "successors": [{"name": "Marinmålningar", "id": 6800572}]}

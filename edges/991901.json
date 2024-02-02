@@ -1,1 +1,1 @@
-{"name": "Domprostar", "id": 991901, "predecessors": [{"name": "Prostar", "id": 1887620}, {"name": "Kyrkliga_titlar", "id": 134640}], "successors": [{"name": "Svenska_domprostar", "id": 1675143}]}
+{"name": "Domprostar", "id": 991901, "predecessors": [{"name": "Topp", "id": 113605}, {"name": "Kyrkliga_titlar", "id": 134640}], "successors": [{"name": "Domprostar_i_Uppsala", "id": 994022}, {"name": "Domprostar_i_Lund", "id": 994258}, {"name": "Domprostar_i_Linköping", "id": 999996}]}

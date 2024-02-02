@@ -1,1 +1,1 @@
-{"name": "Svenska_resebyråer", "id": 1016877, "predecessors": [{"name": "Resebyråer", "id": 258649}, {"name": "Svenska_tjänsteföretag", "id": 1004528}, {"name": "Svenska_trafikföretag", "id": 486261}], "successors": []}
+{"name": "Svenska_resebyråer", "id": 1016877, "predecessors": [{"name": "Handel", "id": 117575}, {"name": "Transport_i_Sverige", "id": 427374}, {"name": "Ekonomi", "id": 51552}], "successors": []}

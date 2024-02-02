@@ -1,1 +1,1 @@
-{"name": "Direkt_till_video-filmer", "id": 1230288, "predecessors": [{"name": "Filmer_efter_typ", "id": 1461270}], "successors": [{"name": "Direkt_till_video-uppföljarfilmer", "id": 7180469}]}
+{"name": "Direkt_till_video-filmer", "id": 1230288, "predecessors": [{"name": "Film", "id": 50715}], "successors": [{"name": "Direkt_till_video-uppföljarfilmer", "id": 7180469}]}

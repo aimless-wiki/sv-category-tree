@@ -1,1 +1,1 @@
-{"name": "Automatkarbiner", "id": 437012, "predecessors": [{"name": "Automatvapen", "id": 129878}, {"name": "Gevär", "id": 462229}], "successors": []}
+{"name": "Automatkarbiner", "id": 437012, "predecessors": [{"name": "Gevär", "id": 462229}, {"name": "Eldvapen", "id": 205865}], "successors": []}

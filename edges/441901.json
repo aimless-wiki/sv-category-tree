@@ -1,1 +1,1 @@
-{"name": "Serviser", "id": 441901, "predecessors": [{"name": "Formgivna_produkter", "id": 6363209}, {"name": "Husgeråd", "id": 118139}, {"name": "Porslin", "id": 301312}], "successors": [{"name": "Servisdelar", "id": 801009}]}
+{"name": "Serviser", "id": 441901, "predecessors": [{"name": "Bostad", "id": 152919}, {"name": "Keramik", "id": 135381}, {"name": "Formgivning", "id": 6363097}], "successors": [{"name": "Dryckeskärl", "id": 257170}]}

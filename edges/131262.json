@@ -1,1 +1,1 @@
-{"name": "Kemiska_stridsmedel", "id": 131262, "predecessors": [{"name": "Förgiftningar", "id": 1486583}, {"name": "Kemikalier", "id": 121942}, {"name": "Massförstörelsevapen", "id": 384953}], "successors": []}
+{"name": "Kemiska_stridsmedel", "id": 131262, "predecessors": [{"name": "Vapen", "id": 60525}, {"name": "Kemi", "id": 50957}, {"name": "Akuta_sjukdomstillstånd", "id": 508297}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Personfaktamallar", "id": 1079755, "predecessors": [{"name": "Personmallar", "id": 516090}], "successors": []}
+{"name": "Personfaktamallar", "id": 1079755, "predecessors": [{"name": "Faktamallar", "id": 189369}, {"name": "Topp", "id": 113605}], "successors": []}

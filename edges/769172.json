@@ -1,1 +1,1 @@
-{"name": "Fluorider", "id": 769172, "predecessors": [{"name": "Salter", "id": 131268}, {"name": "Grundämnen", "id": 51843}, {"name": "Halogener", "id": 442723}], "successors": []}
+{"name": "Fluorider", "id": 769172, "predecessors": [{"name": "Kemi", "id": 50957}, {"name": "Grundämnen", "id": 51843}, {"name": "Periodiska_systemet", "id": 65970}], "successors": []}

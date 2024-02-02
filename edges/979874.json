@@ -1,1 +1,1 @@
-{"name": "Kreditväsen", "id": 979874, "predecessors": [{"name": "Bankväsen", "id": 748323}, {"name": "Finansiell_ekonomi", "id": 976631}, {"name": "Finansväsen", "id": 138043}], "successors": [{"name": "Ränta", "id": 535002}, {"name": "Kreditupplysning", "id": 548249}, {"name": "Obligationer", "id": 822172}]}
+{"name": "Kreditväsen", "id": 979874, "predecessors": [{"name": "Bankväsen", "id": 748323}, {"name": "Finansiell_ekonomi", "id": 976631}, {"name": "Finansväsen", "id": 138043}], "successors": [{"name": "Ränta", "id": 535002}]}

@@ -1,1 +1,1 @@
-{"name": "Svenska_grevar", "id": 237739, "predecessors": [{"name": "Grevar", "id": 1057022}, {"name": "Svensk_adel", "id": 433752}], "successors": [{"name": "Svenska_grevliga_ätter", "id": 998079}]}
+{"name": "Svenska_grevar", "id": 237739, "predecessors": [{"name": "Svensk_adel", "id": 433752}, {"name": "Adel", "id": 89012}], "successors": [{"name": "Svenska_grevliga_ätter", "id": 998079}]}

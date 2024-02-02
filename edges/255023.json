@@ -1,1 +1,1 @@
-{"name": "Spelare_i_HIFK_Hockey", "id": 255023, "predecessors": [{"name": "Ishockey_i_Finland", "id": 505754}, {"name": "Bandyklubbar_i_Finland", "id": 850275}], "successors": []}
+{"name": "Spelare_i_HIFK_Hockey", "id": 255023, "predecessors": [{"name": "Sport", "id": 55124}, {"name": "Fotbollsklubbar_i_Finland", "id": 726685}], "successors": []}

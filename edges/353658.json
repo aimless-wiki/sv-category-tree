@@ -1,1 +1,1 @@
-{"name": "Användargränssnitt", "id": 353658, "predecessors": [{"name": "Människa-datorinteraktion", "id": 329921}, {"name": "Programutveckling", "id": 62605}], "successors": [{"name": "GNOME", "id": 337879}, {"name": "Datorhjälpmedel", "id": 1395093}]}
+{"name": "Användargränssnitt", "id": 353658, "predecessors": [{"name": "Programutveckling", "id": 62605}, {"name": "Datavetenskap", "id": 50677}], "successors": []}

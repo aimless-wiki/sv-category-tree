@@ -1,1 +1,1 @@
-{"name": "Transport_i_Vanda", "id": 8111647, "predecessors": [{"name": "Transport_i_Nyland", "id": 8734408}, {"name": "Vanda", "id": 281117}, {"name": "Politisk_geografi", "id": 339140}], "successors": []}
+{"name": "Transport_i_Vanda", "id": 8111647, "predecessors": [{"name": "Vanda", "id": 281117}, {"name": "Geografi", "id": 51163}, {"name": "Administrativa_indelningar_av_länder_i_Europa", "id": 943283}], "successors": []}

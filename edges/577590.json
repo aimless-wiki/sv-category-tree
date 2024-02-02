@@ -1,1 +1,1 @@
-{"name": "Svenska_kortdistanslöpare", "id": 577590, "predecessors": [{"name": "Svenska_löpare", "id": 1491623}, {"name": "Kortdistanslöpning", "id": 1491638}], "successors": []}
+{"name": "Svenska_kortdistanslöpare", "id": 577590, "predecessors": [{"name": "Friidrott", "id": 54811}, {"name": "Friidrottsgrenar", "id": 328166}], "successors": [{"name": "Svenska_mästare_i_kortdistanslöpning", "id": 1684847}]}

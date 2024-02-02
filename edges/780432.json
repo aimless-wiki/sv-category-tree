@@ -1,1 +1,1 @@
-{"name": "Färgmallar", "id": 780432, "predecessors": [{"name": "Färg", "id": 353389}], "successors": [{"name": "Färgkodsmallar", "id": 888287}]}
+{"name": "Färgmallar", "id": 780432, "predecessors": [{"name": "Färg", "id": 353389}, {"name": "Layoutmallar", "id": 358763}], "successors": [{"name": "Sveriges_partifärgsmallar", "id": 2787359}, {"name": "Finlands_färgkodsmallar", "id": 2787376}, {"name": "Kroatiens_färgkodsmallar", "id": 2891995}, {"name": "Europeiska_unionens_färgkodsmallar", "id": 3871553}]}

@@ -1,1 +1,1 @@
-{"name": "Svenska_radioprogramledare", "id": 543298, "predecessors": [{"name": "Programledare_i_radio", "id": 50733}, {"name": "Svenska_programledare", "id": 1904947}, {"name": "Svenska_radiopersonligheter", "id": 8016868}], "successors": [{"name": "Programledare_i_Sveriges_Radio", "id": 665099}]}
+{"name": "Svenska_radioprogramledare", "id": 543298, "predecessors": [{"name": "Svenska_radiopersonligheter", "id": 8016868}, {"name": "Kultur", "id": 54878}, {"name": "Television_i_Sverige", "id": 199748}], "successors": [{"name": "Programledare_i_Sveriges_Radio", "id": 665099}]}

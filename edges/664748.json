@@ -1,1 +1,1 @@
-{"name": "Svenska_kirurger", "id": 664748, "predecessors": [{"name": "Kirurger", "id": 511977}, {"name": "Svenska_läkare", "id": 81043}], "successors": [{"name": "Svenska_professorer_i_kirurgi", "id": 1014150}]}
+{"name": "Svenska_kirurger", "id": 664748, "predecessors": [{"name": "Svenska_läkare", "id": 81043}, {"name": "Kirurgi", "id": 56351}], "successors": [{"name": "Svenska_professorer_i_kirurgi", "id": 1014150}]}

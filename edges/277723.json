@@ -1,1 +1,1 @@
-{"name": "Fiktiva_poliser", "id": 277723, "predecessors": [{"name": "Fiktion", "id": 545859}], "successors": []}
+{"name": "Fiktiva_poliser", "id": 277723, "predecessors": [{"name": "Fiktiva_figurer", "id": 541194}, {"name": "Juridik", "id": 51589}], "successors": []}

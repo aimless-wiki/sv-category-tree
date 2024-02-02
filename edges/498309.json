@@ -1,1 +1,1 @@
-{"name": "Privatekonomi", "id": 498309, "predecessors": [{"name": "Familjeliv", "id": 67081}, {"name": "Hushåll", "id": 187265}, {"name": "Mikroekonomi", "id": 225663}], "successors": [{"name": "Pension", "id": 496270}, {"name": "Fattigdom", "id": 538986}, {"name": "Konsumtion", "id": 4902523}]}
+{"name": "Privatekonomi", "id": 498309, "predecessors": [{"name": "Familjeliv", "id": 67081}, {"name": "Mikroekonomi", "id": 225663}, {"name": "Bostad", "id": 152919}], "successors": [{"name": "Fattigdom", "id": 538986}, {"name": "Konsumtion", "id": 4902523}]}

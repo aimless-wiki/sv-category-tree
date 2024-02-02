@@ -1,1 +1,1 @@
-{"name": "Vattendrag_i_Region_Mittjylland", "id": 6379532, "predecessors": [{"name": "Landformer_i_Region_Mittjylland", "id": 6379457}, {"name": "Danmarks_geografi", "id": 136464}], "successors": []}
+{"name": "Vattendrag_i_Region_Mittjylland", "id": 6379532, "predecessors": [{"name": "Geografi", "id": 51163}], "successors": []}

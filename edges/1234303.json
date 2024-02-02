@@ -1,1 +1,1 @@
-{"name": "Kommunalval_i_Sverige", "id": 1234303, "predecessors": [{"name": "Kommunalpolitik_i_Sverige", "id": 1223848}, {"name": "Sveriges_kommuner", "id": 54616}, {"name": "Val_i_Sverige", "id": 480066}, {"name": "Kommuner", "id": 63652}], "successors": []}
+{"name": "Kommunalval_i_Sverige", "id": 1234303, "predecessors": [{"name": "Sveriges_kommuner", "id": 54616}, {"name": "Politik_i_Sverige", "id": 426621}, {"name": "Val", "id": 52722}, {"name": "Geografi", "id": 51163}], "successors": []}

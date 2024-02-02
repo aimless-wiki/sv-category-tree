@@ -1,1 +1,1 @@
-{"name": "Litteraturhistoriker", "id": 1434694, "predecessors": [{"name": "Litteraturhistoria", "id": 417904}, {"name": "Litteratur", "id": 52044}, {"name": "Humaniora", "id": 51533}, {"name": "Topp", "id": 113605}], "successors": []}
+{"name": "Litteraturhistoriker", "id": 1434694, "predecessors": [{"name": "Kultur", "id": 54878}, {"name": "Academica", "id": 74905}, {"name": "Topp", "id": 113605}], "successors": []}

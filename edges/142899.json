@@ -1,1 +1,1 @@
-{"name": "Torg_i_Paris", "id": 142899, "predecessors": [{"name": "Byggnader_och_anläggningar_i_Paris", "id": 866482}, {"name": "Byggnader_och_anläggningar_i_Frankrike", "id": 217124}, {"name": "Torg", "id": 142885}, {"name": "Paris", "id": 60356}], "successors": [{"name": "Torg_i_Paris_åttonde_arrondissement", "id": 8740845}]}
+{"name": "Torg_i_Paris", "id": 142899, "predecessors": [{"name": "Byggnader_och_anläggningar_i_Paris", "id": 866482}, {"name": "Turism", "id": 91247}, {"name": "Arkitektur", "id": 51576}, {"name": "Paris", "id": 60356}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Jordbruksbyggnader", "id": 340226, "predecessors": [{"name": "Jordbruksanläggningar", "id": 611754}], "successors": [{"name": "Växthus", "id": 1050038}]}
+{"name": "Jordbruksbyggnader", "id": 340226, "predecessors": [{"name": "Jordbruksanläggningar", "id": 611754}, {"name": "Arkitektur", "id": 51576}], "successors": []}

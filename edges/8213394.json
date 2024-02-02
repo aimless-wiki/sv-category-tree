@@ -1,1 +1,1 @@
-{"name": "Företag_i_Gävle", "id": 8213394, "predecessors": [{"name": "Företag_i_Gävle_kommun", "id": 4368147}, {"name": "Organisationer_i_Gävle", "id": 8213395}, {"name": "Företag", "id": 53776}], "successors": []}
+{"name": "Företag_i_Gävle", "id": 8213394, "predecessors": [{"name": "Organisation", "id": 66482}, {"name": "Orter_i_Gävle_kommun", "id": 1054097}, {"name": "Svenska_företag", "id": 51788}], "successors": []}

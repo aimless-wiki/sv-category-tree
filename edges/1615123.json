@@ -1,1 +1,1 @@
-{"name": "Vattenkällor_i_Sverige", "id": 1615123, "predecessors": [{"name": "Svenska_drycker", "id": 1148500}, {"name": "Vattenkällor", "id": 626435}], "successors": [{"name": "Sätra_hälsobrunn", "id": 7180972}]}
+{"name": "Vattenkällor_i_Sverige", "id": 1615123, "predecessors": [{"name": "Drycker", "id": 57613}, {"name": "Vattenansamlingar", "id": 577714}], "successors": []}

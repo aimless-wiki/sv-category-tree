@@ -1,1 +1,1 @@
-{"name": "Gator_i_Berlin", "id": 528801, "predecessors": [{"name": "Transportanläggningar_i_Berlin", "id": 8768251}, {"name": "Gator", "id": 264451}, {"name": "Berlin", "id": 61664}], "successors": []}
+{"name": "Gator_i_Berlin", "id": 528801, "predecessors": [{"name": "Berlin", "id": 61664}, {"name": "Topp", "id": 113605}, {"name": "Byggnader_och_anläggningar_i_Berlin", "id": 423392}], "successors": []}

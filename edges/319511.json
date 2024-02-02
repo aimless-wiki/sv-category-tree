@@ -1,1 +1,1 @@
-{"name": "Berg_i_Norge", "id": 319511, "predecessors": [{"name": "Landformer_i_Norge", "id": 1462254}, {"name": "Geologi", "id": 52073}], "successors": [{"name": "Skandinaviska_fjällkedjan", "id": 4994663}]}
+{"name": "Berg_i_Norge", "id": 319511, "predecessors": [{"name": "Geologi", "id": 52073}, {"name": "Norges_geografi", "id": 81389}], "successors": [{"name": "Skandinaviska_fjällkedjan", "id": 4994663}]}

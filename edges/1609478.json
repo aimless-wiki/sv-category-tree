@@ -1,1 +1,1 @@
-{"name": "Serbiska_popsångare", "id": 1609478, "predecessors": [{"name": "Serbiska_sångare", "id": 639514}, {"name": "Popmusik", "id": 492488}, {"name": "Serber", "id": 121651}], "successors": []}
+{"name": "Serbiska_popsångare", "id": 1609478, "predecessors": [{"name": "Populärmusik", "id": 56591}, {"name": "Topp", "id": 113605}, {"name": "Kultur", "id": 54878}], "successors": []}

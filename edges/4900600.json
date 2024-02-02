@@ -1,1 +1,1 @@
-{"name": "Namnförgreningssidor", "id": 4900600, "predecessors": [{"name": "Personnamn", "id": 58153}], "successors": [{"name": "Efternamnsförgreningssidor", "id": 4905483}, {"name": "Förnamnsförgreningssidor", "id": 4905484}]}
+{"name": "Namnförgreningssidor", "id": 4900600, "predecessors": [{"name": "Förgreningssidor", "id": 221749}, {"name": "Namn", "id": 71893}], "successors": [{"name": "Efternamnsförgreningssidor", "id": 4905483}, {"name": "Förnamnsförgreningssidor", "id": 4905484}]}

@@ -1,1 +1,1 @@
-{"name": "Bogserbåtar", "id": 1206921, "predecessors": [{"name": "Arbetsfartyg", "id": 8465935}, {"name": "Fartyg", "id": 53917}], "successors": [{"name": "Svenska_bogserbåtar", "id": 1206920}, {"name": "Finländska_bogserbåtar", "id": 4969490}]}
+{"name": "Bogserbåtar", "id": 1206921, "predecessors": [{"name": "Fartygstyper", "id": 463224}], "successors": [{"name": "Svenska_bogserbåtar", "id": 1206920}]}

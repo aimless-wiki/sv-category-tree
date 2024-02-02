@@ -1,1 +1,1 @@
-{"name": "Rymdraketer", "id": 205417, "predecessors": [{"name": "Raketteknik", "id": 641290}, {"name": "Rymdfarkoster", "id": 59079}], "successors": []}
+{"name": "Rymdraketer", "id": 205417, "predecessors": [{"name": "Rymdfarkoster", "id": 59079}, {"name": "Rymdfart", "id": 104683}], "successors": []}

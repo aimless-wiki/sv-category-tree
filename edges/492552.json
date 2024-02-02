@@ -1,1 +1,1 @@
-{"name": "Tyska_rockgrupper", "id": 492552, "predecessors": [{"name": "Musikgrupper", "id": 53301}], "successors": [{"name": "Tyska_metalgrupper", "id": 664670}]}
+{"name": "Tyska_rockgrupper", "id": 492552, "predecessors": [{"name": "Musikgenrer", "id": 56587}, {"name": "Topp", "id": 113605}], "successors": [{"name": "Tyska_metalgrupper", "id": 664670}]}

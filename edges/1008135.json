@@ -1,1 +1,1 @@
-{"name": "Norska_generaler", "id": 1008135, "predecessors": [{"name": "Norska_officerare", "id": 4962059}, {"name": "Militärer", "id": 63498}], "successors": []}
+{"name": "Norska_generaler", "id": 1008135, "predecessors": [{"name": "Norska_militärer", "id": 105930}, {"name": "Militärväsen", "id": 352716}], "successors": []}

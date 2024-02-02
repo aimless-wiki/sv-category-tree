@@ -1,1 +1,1 @@
-{"name": "Kristallografi", "id": 792826, "predecessors": [{"name": "Fasta_tillståndets_fysik", "id": 408179}, {"name": "Materialteknik", "id": 1490541}, {"name": "Mineralogi", "id": 298572}, {"name": "Strukturkemi", "id": 384856}], "successors": []}
+{"name": "Kristallografi", "id": 792826, "predecessors": [{"name": "Fasta_tillståndets_fysik", "id": 408179}, {"name": "Materialteknik", "id": 1490541}, {"name": "Mineralogi", "id": 298572}, {"name": "Kemi", "id": 50957}], "successors": []}

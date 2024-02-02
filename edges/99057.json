@@ -1,1 +1,1 @@
-{"name": "Bilar_tillverkade_av_Mercedes-Benz", "id": 99057, "predecessors": [{"name": "Mercedes-Benz", "id": 420527}, {"name": "Bilar", "id": 55125}, {"name": "Daimler_AG", "id": 1009920}], "successors": [{"name": "Tävlingsbilar_tillverkade_av_Mercedes-Benz", "id": 1507527}]}
+{"name": "Bilar_tillverkade_av_Mercedes-Benz", "id": 99057, "predecessors": [{"name": "Multinationella_företag", "id": 608928}, {"name": "Bilar", "id": 55125}], "successors": []}

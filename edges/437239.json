@@ -1,1 +1,1 @@
-{"name": "Spelare_i_SC_Bern", "id": 437239, "predecessors": [{"name": "Ishockey_i_Schweiz", "id": 734450}, {"name": "Ishockeyklubbar_i_Schweiz", "id": 726754}], "successors": []}
+{"name": "Spelare_i_SC_Bern", "id": 437239, "predecessors": [{"name": "Sport", "id": 55124}, {"name": "Geografi", "id": 51163}], "successors": []}

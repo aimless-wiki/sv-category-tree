@@ -1,1 +1,1 @@
-{"name": "Översättande", "id": 674620, "predecessors": [{"name": "Lingvistik", "id": 111944}, {"name": "Litteraturvetenskap", "id": 51532}, {"name": "Språk", "id": 51933}], "successors": [{"name": "Bibelöversättningar", "id": 53224}, {"name": "Översättarpriser", "id": 7997923}, {"name": "Översättningsforskare", "id": 8292330}]}
+{"name": "Översättande", "id": 674620, "predecessors": [{"name": "Lingvistik", "id": 111944}, {"name": "Kommunikation", "id": 73797}, {"name": "Academica", "id": 74905}], "successors": [{"name": "Översättningsforskare", "id": 8292330}]}

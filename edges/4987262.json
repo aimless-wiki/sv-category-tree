@@ -1,1 +1,1 @@
-{"name": "Svenska_tjänstemän", "id": 4987262, "predecessors": [{"name": "Svenskar", "id": 51535}, {"name": "Parter_inom_arbetsliv", "id": 497167}], "successors": [{"name": "Svenska_statstjänstemän", "id": 8290618}, {"name": "Svenska_kommunaltjänstemän", "id": 8767239}]}
+{"name": "Svenska_tjänstemän", "id": 4987262, "predecessors": [{"name": "Topp", "id": 113605}, {"name": "Arbetsliv", "id": 82132}], "successors": []}

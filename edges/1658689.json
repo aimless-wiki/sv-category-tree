@@ -1,1 +1,1 @@
-{"name": "Synthpoplåtar", "id": 1658689, "predecessors": [{"name": "Synthpop", "id": 475968}, {"name": "Poplåtar", "id": 643338}], "successors": [{"name": "Låtar_av_Pet_Shop_Boys", "id": 4881646}, {"name": "Singlar_av_Depeche_Mode", "id": 4890410}, {"name": "Singlar_av_Ultravox", "id": 4912185}]}
+{"name": "Synthpoplåtar", "id": 1658689, "predecessors": [{"name": "Elektronisk_musik", "id": 62451}, {"name": "Musikgenrer", "id": 56587}], "successors": [{"name": "Singlar_av_Depeche_Mode", "id": 4890410}]}

@@ -1,1 +1,1 @@
-{"name": "Hotell_i_Paradise,_Nevada", "id": 8340662, "predecessors": [{"name": "Paradise,_Nevada", "id": 8464324}, {"name": "Byggnader_och_anläggningar_i_Las_Vegas", "id": 8220205}, {"name": "Hotell", "id": 135466}, {"name": "Nevada", "id": 97486}], "successors": [{"name": "Mandalay_Bay", "id": 8218813}]}
+{"name": "Hotell_i_Paradise,_Nevada", "id": 8340662, "predecessors": [{"name": "Hotell", "id": 135466}, {"name": "Naturgeografi", "id": 111478}, {"name": "Orter_i_Nevada", "id": 317944}, {"name": "USA:s_delstater", "id": 54069}], "successors": []}

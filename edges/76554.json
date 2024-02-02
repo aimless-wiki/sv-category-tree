@@ -1,1 +1,1 @@
-{"name": "Fotbollspriser", "id": 76554, "predecessors": [{"name": "Fotboll", "id": 51559}, {"name": "Sportpriser", "id": 410081}], "successors": [{"name": "Svenska_fotbollspriser", "id": 76556}, {"name": "IFFHS", "id": 1673733}]}
+{"name": "Fotbollspriser", "id": 76554, "predecessors": [{"name": "Fotboll", "id": 51559}, {"name": "Priser", "id": 55041}], "successors": [{"name": "Medlemmar_i_Svensk_fotbolls_Hall_of_Fame", "id": 4893200}]}

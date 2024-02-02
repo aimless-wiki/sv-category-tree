@@ -1,1 +1,1 @@
-{"name": "Kina_på_film", "id": 1101941, "predecessors": [{"name": "Kina_i_fiktion", "id": 1094183}, {"name": "Asien_i_fiktion", "id": 963388}, {"name": "Politisk_geografi", "id": 339140}], "successors": [{"name": "Kinesisk_film", "id": 414886}, {"name": "Shanghai_på_film", "id": 1202807}, {"name": "Hongkong_på_film", "id": 1205963}]}
+{"name": "Kina_på_film", "id": 1101941, "predecessors": [{"name": "Kultur_i_Kina", "id": 738040}, {"name": "Jorden_i_fiktion", "id": 1097481}, {"name": "Film", "id": 50715}], "successors": []}

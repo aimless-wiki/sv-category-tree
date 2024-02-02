@@ -1,1 +1,1 @@
-{"name": "Progressiva_rockmusiker", "id": 207769, "predecessors": [{"name": "Progressiv_rock", "id": 214095}, {"name": "Rockmusik", "id": 492489}], "successors": [{"name": "Progressiv_rock-sångare", "id": 8146570}]}
+{"name": "Progressiva_rockmusiker", "id": 207769, "predecessors": [{"name": "Rockgenrer", "id": 1409357}, {"name": "Musikgenrer", "id": 56587}], "successors": [{"name": "Progressiv_rock-sångare", "id": 8146570}]}

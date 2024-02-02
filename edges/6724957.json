@@ -1,1 +1,1 @@
-{"name": "Svenska_allmogemålare", "id": 6724957, "predecessors": [{"name": "Allmogemåleri", "id": 6232217}, {"name": "Svenska_konstnärer", "id": 55508}, {"name": "Konstnärer", "id": 55520}], "successors": [{"name": "Dalmålare", "id": 1012775}, {"name": "Hälsingemålare", "id": 4864160}]}
+{"name": "Svenska_allmogemålare", "id": 6724957, "predecessors": [{"name": "Geografi", "id": 51163}, {"name": "Kultur", "id": 54878}, {"name": "Målarkonst", "id": 6232165}], "successors": [{"name": "Dalmålare", "id": 1012775}]}

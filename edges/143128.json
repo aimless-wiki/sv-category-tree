@@ -1,1 +1,1 @@
-{"name": "Pirater", "id": 143128, "predecessors": [{"name": "Sjömän", "id": 341143}, {"name": "Sjöröveri", "id": 902125}, {"name": "Kriminalfall", "id": 212504}], "successors": []}
+{"name": "Pirater", "id": 143128, "predecessors": [{"name": "Sjömän", "id": 341143}, {"name": "Brott", "id": 85210}, {"name": "Geometri", "id": 51629}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Måleritekniker", "id": 6250445, "predecessors": [{"name": "Konstens_tekniker", "id": 176767}, {"name": "Målarkonst", "id": 6232165}, {"name": "Måleri_(hantverk)", "id": 6230498}], "successors": [{"name": "Akvareller", "id": 6507742}, {"name": "Muralmålningar", "id": 6513177}]}
+{"name": "Måleritekniker", "id": 6250445, "predecessors": [{"name": "Konstens_tekniker", "id": 176767}, {"name": "Målarkonst", "id": 6232165}, {"name": "Hantverk", "id": 66363}], "successors": [{"name": "Akvarellmålare", "id": 1541862}]}

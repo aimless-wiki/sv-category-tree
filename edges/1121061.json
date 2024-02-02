@@ -1,1 +1,1 @@
-{"name": "Kyrkorättsexperter", "id": 1121061, "predecessors": [{"name": "Jurister", "id": 89396}, {"name": "Kyrkorätt", "id": 515508}, {"name": "Praktiska_teologer", "id": 1038701}], "successors": []}
+{"name": "Kyrkorättsexperter", "id": 1121061, "predecessors": [{"name": "Jurister", "id": 89396}, {"name": "Praktiska_teologer", "id": 1038701}, {"name": "Kristendom", "id": 53171}], "successors": []}

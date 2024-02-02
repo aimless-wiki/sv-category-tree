@@ -1,1 +1,1 @@
-{"name": "MotoGP-banor", "id": 452776, "predecessors": [{"name": "Racing", "id": 181975}, {"name": "Roadracing", "id": 151735}], "successors": []}
+{"name": "MotoGP-banor", "id": 452776, "predecessors": [{"name": "Roadracing", "id": 151735}, {"name": "Arkitektur", "id": 51576}], "successors": []}

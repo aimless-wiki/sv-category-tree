@@ -1,1 +1,1 @@
-{"name": "Stillebenmålare", "id": 4287345, "predecessors": [{"name": "Stilleben", "id": 4287389}, {"name": "Konstnärer", "id": 55520}], "successors": [{"name": "Blomstermålare", "id": 5159666}]}
+{"name": "Stillebenmålare", "id": 4287345, "predecessors": [{"name": "Konstnärliga_yrken", "id": 978526}, {"name": "Målarkonst", "id": 6232165}], "successors": [{"name": "Blomstermålare", "id": 5159666}]}

@@ -1,1 +1,1 @@
-{"name": "Fotbollsregler", "id": 914964, "predecessors": [{"name": "Fotboll", "id": 51559}, {"name": "Sportens_regler", "id": 915053}], "successors": []}
+{"name": "Fotbollsregler", "id": 914964, "predecessors": [{"name": "Fotboll", "id": 51559}, {"name": "Sport", "id": 55124}], "successors": []}

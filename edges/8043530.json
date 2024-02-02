@@ -1,1 +1,1 @@
-{"name": "Konspiratörer", "id": 8043530, "predecessors": [{"name": "Konspirationer", "id": 998216}, {"name": "Kriminalfall", "id": 212504}], "successors": []}
+{"name": "Konspiratörer", "id": 8043530, "predecessors": [{"name": "Organisation", "id": 66482}, {"name": "Geometri", "id": 51629}], "successors": []}

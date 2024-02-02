@@ -1,1 +1,1 @@
-{"name": "Fluidmekanik", "id": 452215, "predecessors": [{"name": "Mekanik", "id": 50449}], "successors": [{"name": "Reologi", "id": 493838}, {"name": "Strömningsmekanik", "id": 1418247}]}
+{"name": "Fluidmekanik", "id": 452215, "predecessors": [{"name": "Mekanik", "id": 50449}], "successors": [{"name": "Strömningsmekanik", "id": 1418247}]}

@@ -1,1 +1,1 @@
-{"name": "Svenska_slagverkare", "id": 207082, "predecessors": [{"name": "Slagverkare", "id": 207081}, {"name": "Musiker", "id": 51916}], "successors": [{"name": "Svenska_trummisar", "id": 207641}]}
+{"name": "Svenska_slagverkare", "id": 207082, "predecessors": [{"name": "Slagverk", "id": 113364}, {"name": "Kultur", "id": 54878}], "successors": [{"name": "Svenska_trummisar", "id": 207641}]}

@@ -1,1 +1,1 @@
-{"name": "Amerikanska_baskettränare", "id": 1613005, "predecessors": [{"name": "Basket_i_USA", "id": 1370537}, {"name": "Amerikanska_idrottsledare", "id": 3005283}, {"name": "Basket", "id": 55533}], "successors": []}
+{"name": "Amerikanska_baskettränare", "id": 1613005, "predecessors": [{"name": "Amerikanska_idrottsledare", "id": 3005283}, {"name": "Sport", "id": 55124}, {"name": "Basket", "id": 55533}], "successors": []}

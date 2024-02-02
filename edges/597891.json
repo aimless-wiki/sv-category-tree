@@ -1,1 +1,1 @@
-{"name": "Svenska_möbelföretag", "id": 597891, "predecessors": [{"name": "Möbelföretag", "id": 852254}, {"name": "Svenska_designföretag", "id": 1050771}, {"name": "Svenska_tillverkningsföretag", "id": 1004532}], "successors": [{"name": "Ikea", "id": 1399257}]}
+{"name": "Svenska_möbelföretag", "id": 597891, "predecessors": [{"name": "Svenska_tillverkningsföretag", "id": 1004532}, {"name": "Svensk_formgivning", "id": 403568}, {"name": "Näringsliv", "id": 82131}], "successors": [{"name": "Ikea", "id": 1399257}]}

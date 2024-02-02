@@ -1,1 +1,1 @@
-{"name": "Datorspelsmallar", "id": 885169, "predecessors": [{"name": "Datamallar", "id": 978831}, {"name": "Spelmallar", "id": 422769}, {"name": "Datasystem", "id": 62559}], "successors": [{"name": "Navigationsrutor-Datorspel", "id": 985165}]}
+{"name": "Datorspelsmallar", "id": 885169, "predecessors": [{"name": "Spelmallar", "id": 422769}, {"name": "Kultur", "id": 54878}, {"name": "Elektronik", "id": 58041}], "successors": [{"name": "Navigationsrutor-Datorspel", "id": 985165}]}

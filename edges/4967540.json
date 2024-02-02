@@ -1,1 +1,1 @@
-{"name": "Svenska_mästerskap_i_simning", "id": 4967540, "predecessors": [{"name": "Simning_i_Sverige", "id": 1659876}, {"name": "Simtävlingar", "id": 297428}, {"name": "Svenska_mästerskap", "id": 307205}], "successors": [{"name": "Svenska_mästare_i_simning", "id": 1675524}]}
+{"name": "Svenska_mästerskap_i_simning", "id": 4967540, "predecessors": [{"name": "Svenska_mästerskap", "id": 307205}, {"name": "Simning", "id": 76182}, {"name": "Sport_i_Sverige", "id": 394466}], "successors": [{"name": "Svenska_mästare_i_simning", "id": 1675524}]}

@@ -1,1 +1,1 @@
-{"name": "Fiktiva_hembiträden", "id": 1253914, "predecessors": [{"name": "Fiktiva_hushållsarbetare", "id": 1696338}, {"name": "Hembiträden", "id": 1253910}], "successors": []}
+{"name": "Fiktiva_hembiträden", "id": 1253914, "predecessors": [{"name": "Hembiträden", "id": 1253910}, {"name": "Hushållsarbetare", "id": 1696335}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Svenska_psalmböcker", "id": 1246865, "predecessors": [{"name": "Kristen_kultur_i_Sverige", "id": 4291546}, {"name": "Psalmböcker", "id": 145510}, {"name": "Svenska_sångböcker", "id": 1246863}], "successors": []}
+{"name": "Svenska_psalmböcker", "id": 1246865, "predecessors": [{"name": "Svenska_sångböcker", "id": 1246863}, {"name": "Kristen_litteratur", "id": 289794}, {"name": "Kultur_i_Sverige", "id": 738122}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Roms_tunnelbanestationer", "id": 7819243, "predecessors": [{"name": "Tunnelbanestationer", "id": 510803}, {"name": "Byggnader_och_anläggningar_i_Rom", "id": 580610}], "successors": []}
+{"name": "Roms_tunnelbanestationer", "id": 7819243, "predecessors": [{"name": "Järnväg", "id": 56116}, {"name": "Byggnader_och_anläggningar_i_Rom", "id": 580610}], "successors": []}

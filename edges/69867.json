@@ -1,1 +1,1 @@
-{"name": "Skottlands_regenter", "id": 69867, "predecessors": [{"name": "Statschefer", "id": 501522}, {"name": "Skottar", "id": 91660}, {"name": "Politik_i_Skottland", "id": 426944}], "successors": [{"name": "Maria_Stuart", "id": 8210195}]}
+{"name": "Skottlands_regenter", "id": 69867, "predecessors": [{"name": "Skottar", "id": 91660}, {"name": "Politik", "id": 51568}, {"name": "Skottlands_historia", "id": 69868}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Ödem", "id": 1472895, "predecessors": [{"name": "Angiologi", "id": 4870281}, {"name": "Hypertrofi", "id": 4876080}, {"name": "Medicinska_symtom", "id": 509189}], "successors": []}
+{"name": "Ödem", "id": 1472895, "predecessors": [{"name": "Medicinska_symtom", "id": 509189}, {"name": "Kardiovaskulära_systemet", "id": 562657}, {"name": "Patologiska_kroppsliga_tillstånd", "id": 1473918}], "successors": []}

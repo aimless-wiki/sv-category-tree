@@ -1,1 +1,1 @@
-{"name": "Basebollmallar", "id": 391754, "predecessors": [{"name": "Baseboll", "id": 73856}, {"name": "Sportmallar", "id": 391693}], "successors": [{"name": "Basebolltruppmallar", "id": 1893972}]}
+{"name": "Basebollmallar", "id": 391754, "predecessors": [{"name": "Sportmallar", "id": 391693}, {"name": "Bollsport", "id": 172723}], "successors": [{"name": "Basebolltruppmallar", "id": 1893972}]}

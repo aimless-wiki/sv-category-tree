@@ -1,1 +1,1 @@
-{"name": "Växtfysiologi", "id": 241934, "predecessors": [{"name": "Botanik", "id": 54276}, {"name": "Fysiologi", "id": 61919}], "successors": [{"name": "Växthormoner", "id": 1154158}, {"name": "Växttoxiner", "id": 1167726}, {"name": "Växtfysiologer", "id": 1796280}, {"name": "Fotosyntes", "id": 8458906}]}
+{"name": "Växtfysiologi", "id": 241934, "predecessors": [{"name": "Botanik", "id": 54276}, {"name": "Fysiologi", "id": 61919}], "successors": [{"name": "Växtfysiologer", "id": 1796280}, {"name": "Giftiga_växter", "id": 516048}]}

@@ -1,1 +1,1 @@
-{"name": "Amatörradio", "id": 401456, "predecessors": [{"name": "Hobbyer", "id": 426476}, {"name": "Radioteknik", "id": 378010}, {"name": "Trådlös_kommunikation", "id": 496959}], "successors": []}
+{"name": "Amatörradio", "id": 401456, "predecessors": [{"name": "Radioteknik", "id": 378010}, {"name": "Elektromagnetisk_strålning", "id": 494452}, {"name": "Kunskap", "id": 591587}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Markvetenskap", "id": 622815, "predecessors": [{"name": "Geovetenskap", "id": 58043}, {"name": "Väg-_och_vattenbyggnad", "id": 788329}], "successors": [{"name": "Jordarter", "id": 157792}, {"name": "Jordmåner", "id": 463437}, {"name": "Markvård", "id": 641746}, {"name": "Jord", "id": 1060339}]}
+{"name": "Markvetenskap", "id": 622815, "predecessors": [{"name": "Väg-_och_vattenbyggnad", "id": 788329}, {"name": "Jorden", "id": 227559}], "successors": [{"name": "Jordarter", "id": 157792}]}

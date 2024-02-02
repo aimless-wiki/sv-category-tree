@@ -1,1 +1,1 @@
-{"name": "Skotska_läkare", "id": 200031, "predecessors": [{"name": "Brittiska_läkare", "id": 239563}, {"name": "Brittiska_forskare", "id": 253922}], "successors": [{"name": "Skotska_kirurger", "id": 4863438}]}
+{"name": "Skotska_läkare", "id": 200031, "predecessors": [{"name": "Brittiska_läkare", "id": 239563}, {"name": "Skottar", "id": 91660}], "successors": []}

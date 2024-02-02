@@ -1,1 +1,1 @@
-{"name": "Kattdjur", "id": 257412, "predecessors": [{"name": "Rovdjur", "id": 86592}], "successors": [{"name": "Katter", "id": 290385}, {"name": "Tigrar", "id": 514758}]}
+{"name": "Kattdjur", "id": 257412, "predecessors": [{"name": "Däggdjur", "id": 53647}], "successors": [{"name": "Katter", "id": 290385}]}

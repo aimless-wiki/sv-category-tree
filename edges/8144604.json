@@ -1,1 +1,1 @@
-{"name": "Kungligheter_på_film", "id": 8144604, "predecessors": [{"name": "Politiska_filmer", "id": 1720504}, {"name": "Filmgenrer", "id": 598019}, {"name": "Film", "id": 50715}, {"name": "Kungligheter", "id": 130089}], "successors": [{"name": "Karl_XII_på_film", "id": 5273986}, {"name": "Filmer_baserade_på_Hamlet", "id": 8144593}, {"name": "Nero_på_film", "id": 8277076}]}
+{"name": "Kungligheter_på_film", "id": 8144604, "predecessors": [{"name": "Filmgenrer", "id": 598019}, {"name": "Film", "id": 50715}, {"name": "Kultur", "id": 54878}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Utbildning_i_Köpenhamn", "id": 1238183, "predecessors": [{"name": "Köpenhamn", "id": 76119}, {"name": "Politisk_geografi", "id": 339140}], "successors": [{"name": "Köpenhamns_universitet", "id": 1024454}]}
+{"name": "Utbildning_i_Köpenhamn", "id": 1238183, "predecessors": [{"name": "Köpenhamn", "id": 76119}, {"name": "Geografi", "id": 51163}], "successors": [{"name": "Personer_verksamma_vid_Köpenhamns_universitet", "id": 1024442}, {"name": "Hedersdoktorer_vid_Köpenhamns_universitet", "id": 1116278}, {"name": "Alumner_från_Köpenhamns_universitet", "id": 1229843}]}

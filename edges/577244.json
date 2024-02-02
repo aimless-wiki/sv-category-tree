@@ -1,1 +1,1 @@
-{"name": "Santiagos_tunnelbanestationer", "id": 577244, "predecessors": [{"name": "Santiago_de_Chile", "id": 1248971}, {"name": "Tunnelbanestationer", "id": 510803}, {"name": "Chile", "id": 61899}], "successors": []}
+{"name": "Santiagos_tunnelbanestationer", "id": 577244, "predecessors": [{"name": "Järnväg", "id": 56116}, {"name": "Transport", "id": 907491}, {"name": "Regionala_politiska_indelningar", "id": 132580}], "successors": []}

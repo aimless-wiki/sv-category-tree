@@ -1,1 +1,1 @@
-{"name": "Matsvampar", "id": 61460, "predecessors": [{"name": "Mat", "id": 52020}, {"name": "Svampar", "id": 61452}], "successors": []}
+{"name": "Matsvampar", "id": 61460, "predecessors": [{"name": "Svampar", "id": 61452}, {"name": "Hälsa", "id": 335075}], "successors": []}

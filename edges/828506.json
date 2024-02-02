@@ -1,1 +1,1 @@
-{"name": "Vägar_i_Nordrhein-Westfalen", "id": 828506, "predecessors": [{"name": "Transport_i_Nordrhein-Westfalen", "id": 1709497}, {"name": "Transport_i_Tyskland", "id": 425479}], "successors": []}
+{"name": "Vägar_i_Nordrhein-Westfalen", "id": 828506, "predecessors": [{"name": "Nordrhein-Westfalen", "id": 136675}, {"name": "Transport", "id": 907491}], "successors": []}

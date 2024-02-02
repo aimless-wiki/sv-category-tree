@@ -1,1 +1,1 @@
-{"name": "Svenska_orkestrar", "id": 475189, "predecessors": [{"name": "Svenska_musikgrupper", "id": 53303}, {"name": "Musikgrupper", "id": 53301}], "successors": [{"name": "Svenska_studentorkestrar", "id": 475207}, {"name": "Svenska_symfoniorkestrar", "id": 503414}, {"name": "Svenska_blåsorkestrar", "id": 690474}]}
+{"name": "Svenska_orkestrar", "id": 475189, "predecessors": [{"name": "Svenska_musikgrupper", "id": 53303}, {"name": "Musik", "id": 51164}], "successors": [{"name": "Svenska_blåsorkestrar", "id": 690474}]}

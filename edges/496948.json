@@ -1,1 +1,1 @@
-{"name": "Kulturföreningar", "id": 496948, "predecessors": [{"name": "Föreningar", "id": 51689}, {"name": "Kulturorganisationer", "id": 538144}, {"name": "Arkitektur", "id": 51576}], "successors": [{"name": "Litterära_sällskap", "id": 365100}]}
+{"name": "Kulturföreningar", "id": 496948, "predecessors": [{"name": "Kulturorganisationer", "id": 538144}, {"name": "Organisation", "id": 66482}, {"name": "Arkitektur", "id": 51576}], "successors": [{"name": "Litterära_sällskap", "id": 365100}]}

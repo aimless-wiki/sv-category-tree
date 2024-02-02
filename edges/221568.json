@@ -1,1 +1,1 @@
-{"name": "Nokia", "id": 221568, "predecessors": [{"name": "Tillverkare_av_smartphones", "id": 4916341}], "successors": [{"name": "Mobiltelefoner_från_Nokia", "id": 631943}]}
+{"name": "Nokia", "id": 221568, "predecessors": [{"name": "Telekommunikation", "id": 69280}, {"name": "Mobiltelefoni", "id": 130881}], "successors": [{"name": "Mobiltelefoner_från_Nokia", "id": 631943}]}

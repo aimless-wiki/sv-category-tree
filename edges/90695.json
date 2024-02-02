@@ -1,1 +1,1 @@
-{"name": "Valsystem", "id": 90695, "predecessors": [{"name": "Föreningsliv", "id": 171706}, {"name": "Val", "id": 52722}], "successors": []}
+{"name": "Valsystem", "id": 90695, "predecessors": [{"name": "Val", "id": 52722}, {"name": "Mänskligt_beteende", "id": 1100698}], "successors": []}

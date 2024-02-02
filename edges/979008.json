@@ -1,1 +1,1 @@
-{"name": "Navigationsrutor-Organisationer", "id": 979008, "predecessors": [{"name": "Organisationer", "id": 54421}], "successors": [{"name": "Navigationsrutor-Organisationer_i_Sverige", "id": 4964412}]}
+{"name": "Navigationsrutor-Organisationer", "id": 979008, "predecessors": [{"name": "Navigationsrutor", "id": 286737}, {"name": "Organisation", "id": 66482}], "successors": [{"name": "Navigationsrutor-Trafikverket", "id": 1479674}]}

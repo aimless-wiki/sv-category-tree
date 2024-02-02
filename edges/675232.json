@@ -1,1 +1,1 @@
-{"name": "Spelare_i_Levante_UD", "id": 675232, "predecessors": [{"name": "Fotboll_i_Spanien", "id": 508131}, {"name": "Fotbollsklubbar_i_Spanien", "id": 726758}], "successors": []}
+{"name": "Spelare_i_Levante_UD", "id": 675232, "predecessors": [{"name": "Sport", "id": 55124}, {"name": "Fotbollsklubbar_i_Spanien", "id": 726758}], "successors": []}

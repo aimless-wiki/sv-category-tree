@@ -1,1 +1,1 @@
-{"name": "Spelare_i_FC_Sion", "id": 680338, "predecessors": [{"name": "Fotboll_i_Schweiz", "id": 485803}, {"name": "Fotbollsklubbar_i_Schweiz", "id": 726752}], "successors": []}
+{"name": "Spelare_i_FC_Sion", "id": 680338, "predecessors": [{"name": "Sport", "id": 55124}, {"name": "Sportklubbar_bildade_1909", "id": 808240}], "successors": []}

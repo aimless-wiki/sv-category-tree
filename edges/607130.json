@@ -1,1 +1,1 @@
-{"name": "Radioaktivitet", "id": 607130, "predecessors": [{"name": "Kärnfysik", "id": 248260}, {"name": "Patogener", "id": 1490208}], "successors": [{"name": "Kärnteknik", "id": 150135}]}
+{"name": "Radioaktivitet", "id": 607130, "predecessors": [{"name": "Kärnfysik", "id": 248260}, {"name": "Sjukdomar", "id": 50034}], "successors": [{"name": "Kärnteknik", "id": 150135}]}

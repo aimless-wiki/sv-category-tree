@@ -1,1 +1,1 @@
-{"name": "Norska_rockgrupper", "id": 492574, "predecessors": [{"name": "Musikgrupper", "id": 53301}], "successors": [{"name": "Norska_metalgrupper", "id": 664664}]}
+{"name": "Norska_rockgrupper", "id": 492574, "predecessors": [{"name": "Musikgenrer", "id": 56587}, {"name": "Topp", "id": 113605}], "successors": []}

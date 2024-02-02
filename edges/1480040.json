@@ -1,1 +1,1 @@
-{"name": "Psykiatrisk_vård", "id": 1480040, "predecessors": [{"name": "Psykiatri", "id": 74236}, {"name": "Sjukvårdsbehandlingar", "id": 640639}], "successors": [{"name": "Mentalsjukhus", "id": 75013}, {"name": "Behandlingshem", "id": 182655}, {"name": "Psykoterapi", "id": 247519}, {"name": "Hydroterapi", "id": 1487841}]}
+{"name": "Psykiatrisk_vård", "id": 1480040, "predecessors": [{"name": "Psykiatri", "id": 74236}, {"name": "Sjukvårdsbehandlingar", "id": 640639}], "successors": [{"name": "Psykoterapi", "id": 247519}, {"name": "Mentalsjukhus_i_Sverige", "id": 1680996}]}

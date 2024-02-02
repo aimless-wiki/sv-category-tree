@@ -1,1 +1,1 @@
-{"name": "Tyska_kirurger", "id": 664756, "predecessors": [{"name": "Kirurger", "id": 511977}, {"name": "Tyska_läkare", "id": 382429}], "successors": []}
+{"name": "Tyska_kirurger", "id": 664756, "predecessors": [{"name": "Tyska_läkare", "id": 382429}, {"name": "Kirurgi", "id": 56351}], "successors": []}

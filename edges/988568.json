@@ -1,1 +1,1 @@
-{"name": "Danska_familjefilmer", "id": 988568, "predecessors": [{"name": "Danska_filmer", "id": 57564}, {"name": "Familjefilmer", "id": 104497}], "successors": []}
+{"name": "Danska_familjefilmer", "id": 988568, "predecessors": [{"name": "Film", "id": 50715}, {"name": "Filmgenrer", "id": 598019}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Franska_animerade_filmer", "id": 988574, "predecessors": [{"name": "Franska_filmer", "id": 54850}, {"name": "Animerad_film", "id": 60121}], "successors": []}
+{"name": "Franska_animerade_filmer", "id": 988574, "predecessors": [{"name": "Film", "id": 50715}, {"name": "Filmgenrer", "id": 598019}], "successors": []}

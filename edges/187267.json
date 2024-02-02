@@ -1,1 +1,1 @@
-{"name": "Processorarkitekturer", "id": 187267, "predecessors": [{"name": "Datorarkitekturer", "id": 376496}, {"name": "Datorhårdvara", "id": 511166}], "successors": [{"name": "Intelprocessorer", "id": 257599}]}
+{"name": "Processorarkitekturer", "id": 187267, "predecessors": [{"name": "Datorhårdvara", "id": 511166}, {"name": "Datorteknik", "id": 62592}], "successors": [{"name": "Intelprocessorer", "id": 257599}]}

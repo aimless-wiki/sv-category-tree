@@ -1,1 +1,1 @@
-{"name": "Idrottsskador", "id": 677240, "predecessors": [{"name": "Livsstilssjukdomar", "id": 247186}, {"name": "Sår_och_skador", "id": 1489838}, {"name": "Träningsfysiologi", "id": 3787532}, {"name": "Medicinska_specialiteter", "id": 290989}], "successors": [{"name": "Värmerelaterade_sjukdomstillstånd", "id": 4441341}]}
+{"name": "Idrottsskador", "id": 677240, "predecessors": [{"name": "Sår_och_skador", "id": 1489838}, {"name": "Träningsfysiologi", "id": 3787532}, {"name": "Folkhälsa", "id": 1513240}, {"name": "Medicinska_specialiteter", "id": 290989}], "successors": []}

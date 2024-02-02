@@ -1,1 +1,1 @@
-{"name": "Företagstyper", "id": 1053747, "predecessors": [{"name": "Företag", "id": 53776}], "successors": [{"name": "Konsumentkooperativ", "id": 86403}, {"name": "Butikskedjor", "id": 478337}, {"name": "Hotellkedjor", "id": 941652}, {"name": "Restaurangkedjor", "id": 4893359}]}
+{"name": "Företagstyper", "id": 1053747, "predecessors": [{"name": "Mikroekonomi", "id": 225663}], "successors": [{"name": "Konsumentkooperativ", "id": 86403}, {"name": "Hotellkedjor", "id": 941652}, {"name": "Amerikanska_snabbmatskedjor", "id": 1519652}]}
