@@ -1,1 +1,1 @@
-{"name": "Helikoptrar", "id": 163201, "predecessors": [{"name": "Produkter", "id": 122639}, {"name": "Flygplan", "id": 53780}], "successors": [{"name": "Militärhelikoptrar", "id": 561805}]}
+{"name": "Helikoptrar", "id": 163201, "predecessors": [{"name": "Luftfarkoster", "id": 80637}, {"name": "Flygplan", "id": 53780}], "successors": [{"name": "Militärhelikoptrar", "id": 561805}]}
