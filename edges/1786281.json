@@ -1,1 +1,1 @@
-{"name": "Spelare_i_Toronto_Raptors", "id": 1786281, "predecessors": [{"name": "Basket", "id": 55533}, {"name": "Sportevenemang_i_Kanada", "id": 426995}, {"name": "Kanadensiska_företag", "id": 164628}], "successors": []}
+{"name": "Spelare_i_Toronto_Raptors", "id": 1786281, "predecessors": [{"name": "Basket", "id": 55533}, {"name": "Kanadensiska_företag", "id": 164628}, {"name": "Sport", "id": 55124}], "successors": []}

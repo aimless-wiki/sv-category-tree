@@ -1,1 +1,1 @@
-{"name": "Möbelarkitekter", "id": 385993, "predecessors": [{"name": "Formgivning", "id": 6363097}, {"name": "Inredning", "id": 124884}, {"name": "Arkitektur", "id": 51576}], "successors": []}
+{"name": "Möbelarkitekter", "id": 385993, "predecessors": [{"name": "Möbler", "id": 65958}, {"name": "Formgivning", "id": 6363097}, {"name": "Arkitektur", "id": 51576}], "successors": []}

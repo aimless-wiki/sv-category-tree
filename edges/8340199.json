@@ -1,1 +1,1 @@
-{"name": "Spelare_i_dam-VM_i_fotboll_2015", "id": 8340199, "predecessors": [{"name": "Sportevenemang_i_Kanada", "id": 426995}, {"name": "Fotboll", "id": 51559}], "successors": []}
+{"name": "Spelare_i_dam-VM_i_fotboll_2015", "id": 8340199, "predecessors": [{"name": "Fotboll", "id": 51559}, {"name": "Sport", "id": 55124}], "successors": []}
