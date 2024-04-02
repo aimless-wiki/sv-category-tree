@@ -899,6 +899,7 @@
 86250 Uranus_månar
 86333 Svensk_studentkultur
 86403 Konsumentkooperativ
+86442 Politiska_affärer
 86486 Spelkonsoler
 86541 Perus_regioner
 86642 Shoguner
@@ -987,7 +988,6 @@
 93550 Norska_kompositörer
 93645 Sydafrikas_historia
 94026 Industri
-94059 Goter
 94061 Germaner
 94169 Facklitteratur
 94173 Brittisk_facklitteratur
@@ -1710,7 +1710,6 @@
 152317 Användare_pl
 152349 Ryska_musikgrupper
 152919 Bostad
-153183 Antarktis_öar
 153486 Motorvägar_i_Belgien
 153641 Polska_fotbollsspelare
 153644 Fotbollslandslag
@@ -2933,6 +2932,7 @@
 254462 Avlidna_1981
 254464 Avlidna_1976
 254471 Brittiska_sångtextförfattare
+254477 Giro_d’Italia
 254478 Libanesiska_författare
 254485 Avlidna_1800-talet
 254641 Avlidna_1700-talet
@@ -4550,6 +4550,7 @@
 354628 Avlidna_1691
 354752 Göteborgs_kommun
 355186 Utenheter
+355359 Sydafrikanska_simmare
 355379 Ungerska_simmare
 355547 Vattendrag_i_Belgien
 355725 Wikiprojektmallar
@@ -4597,6 +4598,7 @@
 362904 Olympiska_silvermedaljörer_1992
 362925 Fågelanatomi
 363336 Avlidna_300-talet_f.Kr.
+363432 Organiserad_brottslighet
 363535 Historiska_församlingar_i_Växjö_stift
 363572 Svenska_speedwayförare
 363622 Svenska_landstingsråd
@@ -5481,6 +5483,7 @@
 468557 Tandkarpar
 468590 Farmaci
 468645 Järnvägstunnlar_i_Sverige
+468953 Svenska_järnvägsbolag
 469001 Torskfiskar
 469153 Lakefiskar
 469771 Museifartyg
@@ -7569,6 +7572,7 @@
 678034 Huset_Holstein-Gottorp
 678201 Orter_i_Kagoshima_prefektur
 678264 Navigationsrutor-Kyrkokontrakt
+678514 Skönlitteratur_1924
 678517 Skönlitteratur_1927
 678520 Skönlitteratur_1930
 678521 Skönlitteratur_1931
@@ -8205,6 +8209,7 @@
 747648 Sporthallar_i_Sverige
 747699 Olympiska_bronsmedaljörer_1932
 747843 Ishallar_i_Sverige
+748000 Afrikas_monarker
 748026 Svenska_officerare
 748136 Svenska_sportpriser
 748323 Bankväsen
@@ -8863,6 +8868,7 @@
 816685 Orter_i_Telemark_fylke
 816700 Orter_i_Buskerud_fylke
 816707 Orter_i_Møre_og_Romsdal_fylke
+816716 Orter_i_Vestfold_fylke
 817328 Amerikanska_rockgitarrister
 817595 Färgord
 817643 Färglära
@@ -12550,6 +12556,7 @@
 1191262 Italienska_områden
 1191322 Singlar_utgivna_på_Columbia_Records
 1191364 Personer_verksamma_vid_Heidelbergs_universitet
+1191553 Portugisiskspråkiga_poeter
 1191648 Geologi_i_Sverige
 1191712 Monomerer
 1192112 Alliansföreningar_i_Sverige
@@ -13858,7 +13865,6 @@
 1428880 Hundrastyper
 1429058 Personer_från_Stavanger
 1429067 Personer_verksamma_vid_Freiburgs_universitet
-1429479 Kinesiska_volleybollspelare
 1429656 Gator_i_Rom
 1431233 Kväner
 1431283 Sportklubbar_bildade_2011
@@ -15974,6 +15980,7 @@
 1607731 Tränare_i_AIK_Fotboll
 1607758 Säsonger_av_Fußball-Bundesliga
 1607927 Personer_i_Belgien_under_1800-talet
+1608679 Fotbollstränare_i_Örgryte_IS
 1608696 Fotbollstränare_i_IFK_Göteborg
 1608893 Oberoende_städer_i_Virginia
 1609388 Personer_från_Queens
@@ -16746,6 +16753,7 @@
 1646154 Spelare_i_Worcester_Sharks
 1646291 Idrottare_från_Birmingham
 1646296 Idrottare_från_Manchester
+1646343 Personer_från_Southampton
 1646737 Författare_från_delstaten_New_York
 1646749 Författare_från_New_Jersey
 1647051 Schöneberg
@@ -16850,6 +16858,7 @@
 1659332 Tävlande_vid_olympiska_vinterspelen_2010_från_Frankrike
 1659340 Kinesiska_bågskyttar
 1659342 Italienska_bågskyttar
+1659343 Taiwanesiska_bågskyttar
 1659345 Sydkoreanska_bågskyttar
 1659347 Franska_bågskyttar
 1659348 Polska_bågskyttar
@@ -18587,6 +18596,7 @@
 1871349 Personer_från_Askersund
 1871493 Fåframtandade_pungdjur
 1871549 Personer_i_Italien_under_1300-talet
+1871635 Personer_från_Monterrey
 1871644 Idrottare_från_Milano
 1871673 3D-filmer
 1871981 Bindvävssjukdomar
@@ -27489,7 +27499,6 @@
 3891136 Personer_som_blivit_avrättade_under_1900-talet
 3891137 Svenska_målare_under_1900-talet
 3891191 Figurtal
-3891212 Serbiens_kungligheter
 3891234 Serbiens_regenter
 3891302 Polska_filmregissörer
 3891387 Personer_från_Honolulu
@@ -34130,6 +34139,7 @@
 7969067 Valmet
 7969231 Alumner_från_Harvard_University
 7969401 Artiklar_som_behöver_uttalsanvisning
+7969530 Personer_i_Hattarnas_ryska_krig
 7969704 Brittiska_science_fiction-romaner
 7969852 Alumner_från_University_of_Connecticut
 7970526 Karvianjoki_avrinningsområde
@@ -34726,6 +34736,7 @@
 8037168 Bokref_efter_författare
 8037459 Tävlande_i_rodd_vid_olympiska_sommarspelen_1908
 8037634 Cykeltävlingar_i_Sverige
+8037662 Cykeltävlingar_i_Frankrike
 8037671 Cykeltävlingar_i_Belgien
 8037719 Tävlande_i_rodd_vid_olympiska_sommarspelen_1932
 8038233 Internationella_sportevenemang_i_Sverige
@@ -34956,6 +34967,7 @@
 8112067 Näringslivspersoner_från_Stockholm
 8112082 Lärare_från_Stockholm
 8112510 Naturskydd_i_South_Australia
+8113212 Personer_i_Sundsvalls_historia
 8113344 Avlidna_2018
 8113789 Mottagare_av_Frihetsmedaljen
 8113815 Dansare_från_Stockholm
@@ -35008,9 +35020,11 @@
 8120883 Filmmusik_av_Georges_Delerue
 8120924 Palestinsk_terrorism
 8121041 Forskare_från_Berlin
+8121582 Wolf_Rayet-variabler
 8121643 Crossdressing_på_film
 8122192 Amerikanska_romantiska_dramafilmer
 8122688 Tävlande_i_volleyboll_vid_olympiska_sommarspelen_1964
+8122689 Tävlande_i_volleyboll_vid_olympiska_sommarspelen_1968
 8122761 Icke-periodiska_kometer
 8123619 Tävlande_i_volleyboll_vid_olympiska_sommarspelen_1972
 8123687 Orter_i_Carmarthenshire
@@ -35353,6 +35367,7 @@
 8210213 Kortvuxna_personer
 8210493 Spelare_i_Kagoshima_United_FC
 8210769 Naturreservat_i_Katrineholms_kommun
+8210784 Företag_i_Sydney
 8211078 Astronomiska_upptäckter_av_Oak_Ridge-observatoriet
 8211430 Astronomiska_upptäckter_av_Zdeňka_Vávrová
 8211616 Amerikanska_kriminaldramafilmer
@@ -35436,6 +35451,7 @@
 8241316 Argentinska_militärflygplan_under_kalla_kriget
 8241318 Sovjetiska_militärflygplan_under_kalla_kriget
 8241320 Amerikanska_militärflygplan_under_kalla_kriget
+8241421 Alumner_från_University_of_California,_Davis
 8241426 Finländska_kyrkomusiker
 8241458 Spelare_i_Liga_MX
 8241603 Kommunalråd_i_Göteborgs_kommun
@@ -36077,6 +36093,7 @@
 8403453 Alumner_från_University_of_Kentucky
 8403568 Grandes_écoles
 8403612 Skogstorp
+8404464 Idrottare_i_Miami_Hurricanes
 8404466 Alumner_från_University_of_Miami
 8404546 Lillestrøms_kommun
 8404802 Svenskar_med_anknytning_till_scouting
@@ -36156,6 +36173,7 @@
 8430298 Alumner_från_University_of_Leeds
 8430769 Kommuner_i_storstadsregionen_Rom
 8430987 Kommuner_i_storstadsregionen_Florens
+8431859 Skådespelare_från_Washington,_D.C.
 8431960 Broar_i_Västra_Götalands_län
 8431977 Kommuner_i_storstadsregionen_Venedig
 8432059 Kommuner_i_storstadsregionen_Bologna
@@ -36453,6 +36471,7 @@
 8481167 Personer_med_anknytning_till_Saab
 8481182 Muhammeds_familj
 8481193 Rheinmetall
+8481558 Bilar_efter_klass
 8481866 Representerade_vid_Nasjonalmuseet
 8482146 Polska_sångare_under_2000-talet
 8482223 Skådespelare_från_Sydney
@@ -36777,6 +36796,7 @@
 8537344 Insjöar_i_Hankasalmi
 8537435 Kommuner,_köpingar_och_städer_i_Landkreis_Forchheim
 8537566 Kommuner,_köpingar_och_städer_i_Landkreis_Hof
+8538057 Amerikanska_journalister_under_1800-talet
 8538058 Franska_journalister_under_1800-talet
 8538065 Insjöar_i_Juga
 8538197 Kommuner,_köpingar_och_städer_i_Landkreis_Ansbach
@@ -37353,6 +37373,7 @@
 8620685 Fjärdar_i_Raseborg
 8620824 Idrottare_från_Turin
 8621290 Ogooués_avrinningsområde
+8621639 Spelare_i_Europamästerskapet_i_volleyboll_för_damer_2013
 8622440 Volleybollspelare_i_Fenerbahçe_SK
 8622533 Alumner_från_Zürichs_universitet
 8622635 Fotbollsspelare_i_Galatasaray_SK
@@ -37779,6 +37800,7 @@
 8682039 Guildford
 8682317 Filmer_från_Miramax_Films
 8682386 Sjöräddningsstationer_i_Danmark
+8682520 Alumner_från_Texas_Christian_University
 8682766 Tyska_botaniker_under_1900-talet
 8682978 Tyska_botaniker_under_1700-talet
 8683288 Quartier_Saint-Gervais
@@ -37820,6 +37842,7 @@
 8688228 Quartier_de_la_Sorbonne
 8690217 Indonesiska_idrottare_under_2000-talet
 8690268 Järnvägsstationer_i_Leipzig
+8690671 Europamästare_i_volleyboll
 8691061 Världsmästare_i_volleyboll
 8691278 Anonymnamn
 8692242 Quartier_des_Grandes-Carrières
@@ -38159,6 +38182,8 @@
 8789374 Belgiska_bågskyttar
 8789375 Tävlande_i_bågskytte_vid_olympiska_sommarspelen_1920
 8789704 Kinesiska_guldmedaljörer_vid_asiatiska_spelen
+8789731 Kinesiska_silvermedaljörer_vid_asiatiska_spelen
+8789739 Medaljörer_vid_asiatiska_spelen_2014
 8789761 Medaljörer_vid_asiatiska_spelen_2018
 8789766 Medaljörer_vid_asiatiska_spelen_2022
 8789771 Medaljörer_i_simning_vid_asiatiska_spelen
@@ -38183,6 +38208,7 @@
 8794605 Svenska_grevar_under_1700-talet
 8795316 Svenska_grevar_under_1600-talet
 8796153 Stallägare_i_Formel_1
+8796595 Ätten_von_Schwerin
 8796946 Sexpositiva_feminister
 8796965 Svenska_friherrar_under_1600-talet
 8799194 Svenska_musiktävlingar
@@ -38194,6 +38220,7 @@
 8806350 Danska_klassiska_organister
 8806353 Tyska_klassiska_organister
 8807718 Amerikanska_travlopp
+8809851 Tidigare_tätorter_i_Norge
 8809977 Deltagare_i_Melodifestivalen_2024
 8809990 Tyska_klassiska_violinister
 8811651 Medaljörer_vid_panamerikanska_spelen_2023
@@ -38207,6 +38234,7 @@
 8813855 Avlidna_2024
 8813994 Portalmuseum
 8815101 Faktamallar_som_använder_data_från_Wikidata
+8815587 Idrottare_i_Ohio_State_Buckeyes
 8816000 Kolera
 8816326 Orter_i_Finnmark_fylke
 8816328 Orter_i_Troms_fylke
@@ -38235,3 +38263,8 @@
 8831268 Kongorikets_regenter
 8832751 Medaljörer_i_volleyboll_vid_panamerikanska_spelen
 8832756 Tävlande_i_volleyboll_vid_panamerikanska_spelen_2019
+8835075 Medaljörer_i_volleyboll_vid_asiatiska_spelen
+8835555 Sydorkneyöarnas_öar
+8835960 Visigotiska_rikets_regenter
+8836427 Juniorvärldsmästare_i_alpin_skidsport
+8836429 Juniorvärldsmästare_i_friidrott

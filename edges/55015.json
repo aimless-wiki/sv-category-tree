@@ -1,1 +1,1 @@
-{"name": "Järnvägsbolag", "id": 55015, "predecessors": [{"name": "Järnväg", "id": 56116}, {"name": "Spårtrafik", "id": 528408}, {"name": "Trafik", "id": 110729}], "successors": [{"name": "Ej_längre_existerande_svenska_järnvägsbolag", "id": 456883}]}
+{"name": "Järnvägsbolag", "id": 55015, "predecessors": [{"name": "Järnväg", "id": 56116}, {"name": "Spårtrafik", "id": 528408}, {"name": "Trafik", "id": 110729}], "successors": [{"name": "Svenska_järnvägsbolag", "id": 468953}, {"name": "Ej_längre_existerande_svenska_järnvägsbolag", "id": 456883}]}

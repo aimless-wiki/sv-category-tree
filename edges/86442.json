@@ -1,1 +1,1 @@
-{"name": "Politiska_affärer", "id": 86442, "predecessors": [{"name": "Politisk_historia", "id": 539289}, {"name": "Skandaler", "id": 284313}, {"name": "Historia", "id": 51162}, {"name": "Kultur", "id": 54878}], "successors": [{"name": "Politiska_affärer_i_Sverige", "id": 312425}]}
+{"name": "Politiska_affärer", "id": 86442, "predecessors": [{"name": "Statsvetenskap", "id": 51526}, {"name": "Kultur", "id": 54878}, {"name": "Geometri", "id": 51629}], "successors": [{"name": "Politiska_affärer_i_Sverige", "id": 312425}]}
