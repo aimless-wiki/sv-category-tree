@@ -1,1 +1,1 @@
-{"name": "Syntax", "id": 213023, "predecessors": [{"name": "Grammatik", "id": 66408}], "successors": []}
+{"name": "Syntax", "id": 213023, "predecessors": [{"name": "Grammatik", "id": 66408}], "successors": [{"name": "Subjekt–verb–objekt-språk", "id": 3985420}, {"name": "Subjekt–objekt–verb-språk", "id": 3985421}, {"name": "Verb–subjekt–objekt-språk", "id": 3985422}]}
