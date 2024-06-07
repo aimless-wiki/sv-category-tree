@@ -1,1 +1,1 @@
-{"name": "Spårvagnar", "id": 65776, "predecessors": [{"name": "Järnvägsfordon", "id": 224208}, {"name": "Kollektivtrafik", "id": 99085}], "successors": [{"name": "Göteborgsspårvagnar", "id": 8095918}]}
+{"name": "Spårvagnar", "id": 65776, "predecessors": [{"name": "Kollektivtrafik", "id": 99085}, {"name": "Fordon", "id": 76896}], "successors": [{"name": "Göteborgsspårvagnar", "id": 8095918}]}
