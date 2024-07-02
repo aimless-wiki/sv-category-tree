@@ -1,1 +1,1 @@
-{"name": "Hälsovådliga_luftföroreningar", "id": 1156370, "predecessors": [{"name": "Material", "id": 105853}, {"name": "Meteorologi", "id": 58004}, {"name": "Sjukdomar", "id": 50034}, {"name": "Miljöförstöring", "id": 496159}], "successors": []}
+{"name": "Hälsovådliga_luftföroreningar", "id": 1156370, "predecessors": [{"name": "Material", "id": 105853}, {"name": "Meteorologi", "id": 58004}, {"name": "Sjukdomar", "id": 50034}, {"name": "Miljöförstöring", "id": 496159}], "successors": [{"name": "Blyföreningar", "id": 1057840}]}

@@ -1,1 +1,1 @@
-{"name": "F1-mallar", "id": 344969, "predecessors": [{"name": "Formel_1", "id": 52070}, {"name": "Motorsportmallar", "id": 607635}], "successors": [{"name": "Navigationsrutor-Formel_1", "id": 4869009}]}
+{"name": "F1-mallar", "id": 344969, "predecessors": [{"name": "Motorsportmallar", "id": 607635}, {"name": "Bilsport", "id": 55060}], "successors": [{"name": "Navigationsrutor-Formel_1", "id": 4869009}]}

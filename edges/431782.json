@@ -1,1 +1,1 @@
-{"name": "Järnvägsstationer_i_Berlin", "id": 431782, "predecessors": [{"name": "Järnväg_i_Tyskland", "id": 1049915}, {"name": "Byggnader_och_anläggningar_i_Berlin", "id": 423392}], "successors": [{"name": "Berlins_tunnelbanestationer", "id": 403444}]}
+{"name": "Järnvägsstationer_i_Berlin", "id": 431782, "predecessors": [{"name": "Transportanläggningar_i_Berlin", "id": 8768251}, {"name": "Järnväg_i_Tyskland", "id": 1049915}], "successors": [{"name": "Berlins_tunnelbanestationer", "id": 403444}]}
