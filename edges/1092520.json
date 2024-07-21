@@ -1,1 +1,1 @@
-{"name": "USA:s_utrikespolitik", "id": 1092520, "predecessors": [{"name": "Politik_i_USA", "id": 426788}, {"name": "Internationella_relationer", "id": 118402}], "successors": [{"name": "Amerikanska_diplomater", "id": 313504}, {"name": "USA:s_utrikesministrar", "id": 503888}]}
+{"name": "USA:s_utrikespolitik", "id": 1092520, "predecessors": [{"name": "Politik_i_USA", "id": 426788}, {"name": "Internationell_politik", "id": 118891}], "successors": [{"name": "Amerikanska_diplomater", "id": 313504}, {"name": "USA:s_utrikesministrar", "id": 503888}]}
