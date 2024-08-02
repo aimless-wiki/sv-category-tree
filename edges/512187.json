@@ -1,1 +1,1 @@
-{"name": "Socialpsykologi", "id": 512187, "predecessors": [{"name": "Sociologi", "id": 53831}, {"name": "Psykologi", "id": 54277}], "successors": [{"name": "Etik", "id": 111937}, {"name": "Moral", "id": 1482567}, {"name": "Psykisk_hälsa", "id": 1591724}]}
+{"name": "Socialpsykologi", "id": 512187, "predecessors": [{"name": "Sociologi", "id": 53831}, {"name": "Psykologi", "id": 54277}], "successors": [{"name": "Etik", "id": 111937}, {"name": "Kognitiva_biaser", "id": 1142726}, {"name": "Moral", "id": 1482567}, {"name": "Psykisk_hälsa", "id": 1591724}]}
