@@ -1,1 +1,1 @@
-{"name": "Flygplan_tillverkade_av_Saab", "id": 8494918, "predecessors": [{"name": "Bilar", "id": 55125}, {"name": "Flygplan", "id": 53780}], "successors": []}
+{"name": "Flygplan_tillverkade_av_Saab", "id": 8494918, "predecessors": [{"name": "Saab_(försvarsindustri)", "id": 1504641}, {"name": "Bilar", "id": 55125}, {"name": "Flygplan", "id": 53780}], "successors": []}
