@@ -1,1 +1,1 @@
-{"name": "Plasmafysik", "id": 512683, "predecessors": [{"name": "Astrofysik", "id": 75693}, {"name": "Fysik", "id": 50448}, {"name": "Grundläggande_fysikaliska_begrepp", "id": 431613}], "successors": [{"name": "Rymdfysik", "id": 740741}]}
+{"name": "Plasmafysik", "id": 512683, "predecessors": [{"name": "Astrofysik", "id": 75693}, {"name": "Grundläggande_fysikaliska_begrepp", "id": 431613}, {"name": "Academica", "id": 74905}], "successors": [{"name": "Rymdfysik", "id": 740741}]}

@@ -1,1 +1,1 @@
-{"name": "Mätinstrument", "id": 108799, "predecessors": [{"name": "Mätteknik", "id": 398420}, {"name": "Produkter", "id": 122639}, {"name": "Verktyg", "id": 77505}, {"name": "Fysik", "id": 50448}], "successors": [{"name": "Elektriska_mätinstrument", "id": 1409704}]}
+{"name": "Mätinstrument", "id": 108799, "predecessors": [{"name": "Mätteknik", "id": 398420}, {"name": "Produkter", "id": 122639}, {"name": "Verktyg", "id": 77505}, {"name": "Academica", "id": 74905}], "successors": [{"name": "Elektriska_mätinstrument", "id": 1409704}]}

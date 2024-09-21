@@ -1,1 +1,1 @@
-{"name": "Termodynamik", "id": 50450, "predecessors": [{"name": "Fysik", "id": 50448}], "successors": [{"name": "Energiteknik", "id": 117552}, {"name": "Förbränning", "id": 254823}, {"name": "Kylning", "id": 683942}]}
+{"name": "Termodynamik", "id": 50450, "predecessors": [{"name": "Fysikalisk_kemi", "id": 323701}], "successors": [{"name": "Energiteknik", "id": 117552}, {"name": "Förbränning", "id": 254823}, {"name": "Kylning", "id": 683942}]}

@@ -3,7 +3,6 @@
 50337 Italienska_fotbollsspelare
 50362 Klassisk_musik
 50397 Glass
-50448 Fysik
 50449 Mekanik
 50450 Termodynamik
 50452 Matematisk_analys
@@ -1720,6 +1719,7 @@
 153777 Amerikanska_racerförare
 153810 Grönlands_geografi
 153863 Logistik
+153885 Rollspelsföretag
 153936 Polens_geografi
 153952 Italiens_geografi
 154053 Truppslag
@@ -1772,6 +1772,7 @@
 157626 Ekvationer
 157645 Grupprocesser
 157759 Användare_pt-N
+157761 Användare_pt-2
 157762 Användare_pt-1
 157772 Användare_da-1
 157775 Användare_no-1
@@ -1973,6 +1974,7 @@
 185553 Nederländernas_Grand_Prix
 185658 Svenska_folkmusiker
 185733 Kommuner_i_Vaud
+185915 Trondheims_kommun
 185950 Svenska_folkmusikgrupper
 185959 Pinus
 185968 Betula
@@ -3970,6 +3972,7 @@
 296684 Födda_1480
 296685 Svenska_kartografer
 296810 Amerikanska_fribrottare
+296917 Tyska_botaniker
 296979 Wikipedia:Arkiv
 296989 Födda_1624
 297029 Franska_botaniker
@@ -4563,6 +4566,7 @@
 355379 Ungerska_simmare
 355547 Vattendrag_i_Belgien
 355725 Wikiprojektmallar
+355781 Österrikiska_friidrottare
 356661 Psalmverktyg
 356751 Cykling
 356977 Storkar
@@ -5208,8 +5212,10 @@
 426782 Sportevenemang_i_Finland
 426788 Politik_i_USA
 426807 Sportevenemang_i_Europa
+426817 Sportevenemang_i_delstaten_New_York
 426826 Sportevenemang_i_Schweiz
 426843 Sportevenemang_i_Italien
+426883 Sportevenemang_i_Kalifornien
 426941 Sportevenemang_i_Frankrike
 426991 Spanska_landslag
 427374 Transport_i_Sverige
@@ -6436,6 +6442,7 @@
 538729 Villmanstrand
 538806 Spanska_generaler
 538915 Sportklubbar_i_Malmö
+538977 Kung_fu
 538986 Fattigdom
 538989 Lotterier
 539187 Litteratur_inom_historia
@@ -6484,6 +6491,7 @@
 547941 Reykjavik
 548100 Svenska_orientalister
 548570 Tirana
+548617 Franska_anarkister
 548765 Österrikiska_professorer
 549540 Segelflyg
 549916 Vegetabiliska_oljor
@@ -6907,6 +6915,7 @@
 609278 Signalsystem
 609604 Pippi_Långstrump
 609843 Spelare_i_Anaheim_Ducks
+609865 Berömda_hundar
 610206 Norges_finansministrar
 610326 Belgiens_regeringschefer
 610329 Belgiens_utrikesministrar
@@ -7510,7 +7519,7 @@
 673991 Romersk-katolska_kyrkans_dokument
 674042 Hedersdoktorer_vid_Uppsala_universitet
 674047 Spelare_i_Brøndby_IF
-674048 Spelare_i_FC_Lyn_Oslo
+674048 Fotbollsspelare_i_SFK_Lyn
 674108 Spelare_i_KFC_Uerdingen_05
 674145 Ekonomiska_system
 674258 Hedersdoktorer_vid_Stockholms_universitet
@@ -7672,6 +7681,7 @@
 679602 Orter_i_Saitama_prefektur
 679604 Orter_i_Osaka_prefektur
 679607 Orter_i_Okinawa_prefektur
+679614 Orter_i_Mie_prefektur
 679620 Orter_i_Miyagi_prefektur
 679622 Orter_i_Nagano_prefektur
 679749 Kulturtidskrifter
@@ -8161,10 +8171,7 @@
 744066 Sportåret_2006
 744067 Sportåret_2004
 744068 Sportåret_2003
-744069 Sportåret_2002
 744072 Sportåret_2005
-744075 Sportåret_1999
-744079 Sportåret_1995
 744161 Spelare_i_Willem_II_Tilburg
 744184 Samarbetsmallar
 744194 Vattendrag_i_Azerbajdzjan
@@ -8254,6 +8261,7 @@
 750422 Estlandssvenskar
 750554 Kvinnor_förklädda_till_män_inom_det_militära
 750930 Norska_TV-programledare
+750937 Orter_i_Nara_prefektur
 751340 Spelare_i_Brentford_FC
 751498 Spelare_i_Juventus_FC
 751500 Personer_inom_Einsatzgruppen
@@ -9050,6 +9058,7 @@
 852584 Spelare_i_Trabzonspor
 852587 Spelare_i_FC_Sochaux-Montbéliard
 852590 Sköldvulkaner
+852868 Insjöar_i_Azerbajdzjan
 853296 Amerikanska_genetiker
 853313 Amerikanska_nationalekonomer
 853330 Tyska_äventyrsfilmer
@@ -9532,7 +9541,7 @@
 907686 Företag_listade_på_London_Stock_Exchange
 907968 Tävlande_i_fotboll_vid_olympiska_sommarspelen_2008
 908255 Kasper_Salin-priset
-908497 Spelare_i_Stabæk_Fotball
+908497 Fotbollsspelare_i_Stabæk_IF
 908920 Förintelseöverlevare
 909013 Spelare_i_Sociedade_Esportiva_Palmeiras
 909150 Teatrar_i_Stockholm
@@ -9876,7 +9885,6 @@
 946484 TV-serier_baserade_på_filmer
 946538 Byggnader_och_anläggningar_på_Gärdet
 946549 Personer_från_Belgrad
-946585 2007_i_Storbritannien
 946671 Östermalm
 946683 Skeppsholmen
 946689 Norra_Djurgården
@@ -10122,7 +10130,6 @@
 978526 Konstnärliga_yrken
 978620 Fotboll_i_Chile
 978732 Facklitteratur_2009
-978814 Navigationsrutor-EU
 978830 Mediefaktamallar
 978859 Personligheter_inom_svensk_godtemplarrörelse
 978860 Astronomifaktamallar
@@ -10809,8 +10816,8 @@
 1028455 Fotbollsspelare_i_FK_Haugesund
 1028457 Fotbollsspelare_i_Lillestrøm_SK
 1028459 Fotbollsspelare_i_Molde_FK
-1028464 Spelare_i_Odds_BK
-1028466 Spelare_i_Sandefjord_Fotball
+1028464 Fotbollsspelare_i_Odds_BK
+1028466 Fotbollsspelare_i_Sandefjord_Fotball
 1028469 Fotbollsspelare_i_IK_Start
 1028471 Fotbollsspelare_i_Tromsø_IL
 1028473 Fotbollsspelare_i_Vålerenga_IF
@@ -10820,20 +10827,16 @@
 1029288 1964_i_USA
 1029289 1968_i_USA
 1029299 1962_i_USA
-1029301 1963_i_USA
 1029328 USA_under_1800-talet
 1029398 2010_i_USA
-1029447 1961_i_USA
 1029448 1965_i_USA
 1029450 1966_i_USA
 1029451 1967_i_USA
 1029461 1971_i_USA
-1029470 1985_i_USA
 1029473 1990_i_USA
 1029474 1991_i_USA
 1029825 Nationer_i_olympiska_vinterspelen_1984
 1030290 Tyska_cellister
-1030355 1980_i_Italien
 1030417 Alumner_från_Kungliga_Tekniska_högskolan
 1030453 Alumner_från_Chalmers_tekniska_högskola
 1030508 Slagskeppsklasser
@@ -10851,7 +10854,6 @@
 1032523 Alumner_från_Karolinska_Institutet
 1032553 Ej_längre_existerande_svenska_handelsföretag
 1032604 Nationer_i_olympiska_vinterspelen_2010
-1032698 2010_i_Storbritannien
 1032841 Engelskspråkiga_dagstidningar
 1033307 Kallbadhus_i_Sverige
 1033971 2013_i_Sverige
@@ -10867,7 +10869,6 @@
 1034928 Graviditet
 1035103 Förhistoriska_fiskar
 1035104 Förhistoriska_däggdjur
-1035182 2012_i_USA
 1035640 Svenska_scenskådespelare
 1035655 Spelare_i_Derby_County_FC
 1035717 Lunglösa_salamandrar
@@ -11504,7 +11505,6 @@
 1085449 Kalla_kriget_på_film
 1085742 Brittiska_advokater
 1086211 Svenska_webbtidningar
-1086514 Washington_D.C._i_fiktion
 1086880 Nedlagda_biografer_i_Stockholm
 1087689 Finländska_professorer_i_medicin
 1087699 Personer_verksamma_vid_University_of_California
@@ -12239,6 +12239,7 @@
 1156094 Mallar_för_medaljtabeller
 1156141 Spanska_professorer
 1156370 Hälsovådliga_luftföroreningar
+1156504 Kinesiska_maträtter
 1156808 Hedersdoktorer_vid_universitetet_i_Oslo
 1157281 Tyskspråkiga_poeter
 1157308 Ledamöter_av_Preussiska_vetenskapsakademien
@@ -12561,7 +12562,6 @@
 1190545 Datum_i_november
 1190546 Datum_i_december
 1190635 Spelare_i_FC_Luzern
-1191117 2011_i_Storbritannien
 1191262 Italienska_områden
 1191322 Singlar_utgivna_på_Columbia_Records
 1191364 Personer_verksamma_vid_Heidelbergs_universitet
@@ -12699,6 +12699,7 @@
 1206920 Svenska_bogserbåtar
 1206921 Bogserbåtar
 1206958 Rymdäventyrsfilmer
+1207137 Datorspel_baserade_på_Svenska_hockeyligan
 1207159 Amerikanska_science_fiction-skräckfilmer
 1207224 Norska_skolledare
 1207349 Amerikanska_science_fiction-TV-serier
@@ -13061,6 +13062,7 @@
 1247859 Personer_från_Århus
 1247967 Sport_i_Jönköping
 1247991 Relationer_mellan_Sverige_och_USA
+1248109 Per_och_Alma_Olssons_fond
 1248135 Svenska_marskar
 1248203 För_tapperhet_i_fält_(guldmedalj)
 1248246 Medeltiden_i_fiktion
@@ -13386,6 +13388,7 @@
 1374546 Indelningar_i_Hagfors_kommun
 1374578 Indelningar_i_Torsby_kommun
 1374813 Nordamerika_under_1600-talet
+1374820 Bostadshus_i_Stockholm
 1374864 Villor_på_Djurgården
 1375332 Kinas_politiska_historia
 1375429 Montenegrinska_handbollsspelare
@@ -14263,7 +14266,6 @@
 1461339 Sportfaktamallar
 1461364 Fotografiportalen
 1461504 Byggnadssten
-1461650 Navigationsrutor-Politik_Finland
 1461749 Vattendrag_i_Newfoundland_och_Labrador
 1461803 Kommuner_i_Nordland_fylke
 1461814 Sør-Varangers_kommun
@@ -14311,7 +14313,7 @@
 1467431 Medlemmar_av_Kungliga_Hovkapellet
 1467823 Smålands_öar
 1467900 Album_av_Keith_Jarrett
-1468004 Spelare_i_Sogndal_Fotball
+1468004 Fotbollsspelare_i_Sogndal_IL
 1468320 Sportåret_2018
 1468756 Djurskulpturer
 1468986 Orter_i_Sydsudan
@@ -14548,7 +14550,6 @@
 1484719 Biologiska_pigment
 1484720 Personer_från_Strasbourg
 1485024 Musikgrupper_bildade_2011
-1485198 2014_i_Italien
 1485386 Personer_verksamma_vid_universitetet_i_Bergen
 1485479 Ledamöter_av_Norske_Videnskabers_Selskab
 1485699 Personer_från_Nice
@@ -15004,6 +15005,7 @@
 1507104 Personer_från_Mjölby
 1507145 Personer_från_Mexico_City
 1507226 Personer_från_Vänersborg
+1507467 Personer_från_Sundsvalls_kommun
 1507473 Personer_från_Köping
 1507477 Personer_från_Fagersta
 1507488 Högerextremister
@@ -15966,6 +15968,7 @@
 1603310 Fartyg_byggda_i_Virginia
 1603614 Vinnare_av_Nordiska_rådets_litteraturpris
 1603897 Festivali_i_Këngës_efter_år
+1603974 Personer_verksamma_vid_universitetet_i_Pisa
 1604882 Personer_från_Bradford
 1605642 Spelare_i_New_York_Yankees
 1605648 Spelare_i_Major_League_Soccer
@@ -16123,6 +16126,7 @@
 1613065 Idrottare_från_Gävle
 1613072 Idrottare_från_Barcelona
 1613074 Idrottare_från_Madrid
+1613143 Kommuner_i_New_South_Wales
 1613160 Ryggsjukdomar
 1613358 Personer_från_Kinshasa
 1613417 Spelare_i_Seattle_Mariners
@@ -16338,6 +16342,7 @@
 1622604 Tävlande_vid_olympiska_sommarspelen_1980_från_Kuba
 1622627 Tävlande_vid_olympiska_sommarspelen_1996_från_Spanien
 1622700 Drammens_kommun
+1622740 Marockanska_olympiska_bronsmedaljörer
 1622962 Finlandssvenska_musiker
 1623003 Tävlande_vid_olympiska_sommarspelen_2000_från_Rumänien
 1623010 Tävlande_vid_olympiska_sommarspelen_1996_från_Rumänien
@@ -16356,6 +16361,7 @@
 1623208 Tävlande_vid_olympiska_sommarspelen_1996_från_Kanada
 1623222 Brasilianska_olympiska_bronsmedaljörer
 1623224 Brasilianska_olympiska_silvermedaljörer
+1623256 Sandefjords_kommun
 1623258 Tønsbergs_kommun
 1623579 Tävlande_vid_olympiska_sommarspelen_1912_från_USA
 1623635 Brittiska_bågskyttar
@@ -16807,7 +16813,7 @@
 1650748 Idrottare_från_Sundsvall
 1650756 Fotbollsspelare_i_Jitex_BK
 1650758 Fotbollsspelare_i_Tyresö_FF
-1650916 Spelare_i_Ystads_IF_HF
+1650916 Handbollsspelare_i_Ystads_IF
 1650935 Idrottare_från_Lund
 1651035 Tävlande_vid_olympiska_sommarspelen_1976_från_Tjeckoslovakien
 1651314 Personer_från_Norfolk,_Virginia
@@ -16991,6 +16997,7 @@
 1666011 Shaanxi
 1666128 Tävlande_i_fäktning_vid_olympiska_sommarspelen_1928
 1666231 Obelisker
+1666235 Folkestone_and_Hythe
 1666273 Tyska_innehavare_av_professors_namn
 1666774 Svenska_kristna_musikgrupper
 1666776 Amerikanska_kristna_musikgrupper
@@ -17157,6 +17164,7 @@
 1679320 Tävlande_i_fäktning_vid_olympiska_sommarspelen_1960
 1679321 Tävlande_vid_olympiska_sommarspelen_1956_från_Ungern
 1679322 Tävlande_i_fäktning_vid_olympiska_sommarspelen_1956
+1679326 Sydkoreanska_fäktare
 1679335 Brittiska_ryttare
 1679339 Tävlande_i_ridsport_vid_olympiska_sommarspelen_2012
 1679546 Tävlande_i_ridsport_vid_olympiska_sommarspelen_2004
@@ -18091,6 +18099,7 @@
 1720685 Portugisiskspråkiga_filmer
 1720686 Polskspråkiga_filmer
 1720954 Navigationsrutor-Serier
+1721123 Turkiskspråkiga_filmer
 1721316 Flemingsberg
 1721443 Triphopalbum
 1721470 WikiAfrica_Lettera27
@@ -18098,12 +18107,12 @@
 1721619 Finskspråkig_skönlitteratur
 1721620 Ryskspråkig_skönlitteratur
 1721890 BP
-1721971 Orter_i_Northeast
+1721971 Orter_i_North-East_District,_Botswana
 1721979 Orter_i_Kgalagadi
-1721982 Orter_i_Southern
+1721982 Orter_i_Southern_District,_Botswana
 1721984 Orter_i_Central
 1722057 Listmallar
-1722258 Orter_i_Northwest
+1722258 Orter_i_North-West_District,_Botswana
 1722373 Militärläkare
 1722642 Basidiesvampar
 1722644 Personer_som_blivit_avrättade_av_Polen
@@ -18609,6 +18618,7 @@
 1869788 Personer_från_Grand_Rapids,_Michigan
 1869928 Gordionus
 1869948 Gordius
+1869997 Personer_från_Flint,_Michigan
 1870086 Glattmaskar
 1870112 Polycirrus
 1870158 Småringmaskar
@@ -19111,7 +19121,6 @@
 1890565 Personer_i_Spanien_under_1000-talet
 1890567 Personer_i_Spanien_under_1200-talet
 1890568 Personer_i_Spanien_under_1300-talet
-1891116 Ledamöter_av_Finlands_lantdag_för_Svenska_folkpartiet
 1891122 Ledamöter_av_Finlands_lantdag_för_Socialdemokraterna
 1891123 Ledamöter_av_Finlands_riksdag_för_Socialdemokraterna
 1891128 Ledamöter_av_Finlands_riksdag_för_Folkdemokraterna
@@ -19706,6 +19715,7 @@
 1986039 Hydra
 1986114 Hydractinia
 1986439 Eudendrium
+1986501 Personer_från_Tanums_socken
 1986672 Sarsia
 1986869 Corymorpha
 1987269 Bougainvillia
@@ -20480,7 +20490,6 @@
 2170934 Ariadna
 2171112 Selenops
 2171351 Anyphops
-2171420 2014_i_USA
 2171515 Scytodes
 2171826 Orter_på_häradsnivå_i_Hubei
 2171830 Orter_på_häradsnivå_i_Xinjiang
@@ -21664,6 +21673,7 @@
 2494300 Kindpåsråttor
 2494407 Lansråttor
 2495359 Harar_(släkte)
+2496023 Murina
 2496147 Hästskonäsor
 2496262 Hipposideros
 2496804 Bladnäsor
@@ -22550,6 +22560,7 @@
 2728280 Singelettor_i_Sverige
 2728287 Dikraneura
 2728418 Alconeura
+2728617 Danskamerikaner
 2728688 Tävlande_i_judo_vid_olympiska_sommarspelen_1976
 2728835 Naturreservat_i_Kinda_kommun
 2729188 Dikrella
@@ -22761,6 +22772,7 @@
 2782677 Företag_i_Malmö
 2782678 Företag_i_Göteborg
 2782768 Herrgårdar_i_England
+2782871 Personer_från_Luanda
 2783161 Ishockeyspelare_i_HC_Davos
 2783337 Insjöar_i_Gothemån-Snoderåns_kustområde
 2783596 Stater_och_territorier_bildade_1875
@@ -23792,7 +23804,6 @@
 2943334 Personer_från_Delsbo_socken
 2943424 Personer_från_Ljusdals_socken
 2943489 Personer_från_Alfta_socken
-2943751 Personer_från_Folkärna_socken
 2945560 Personer_från_Malungs_socken
 2945593 Coenotephria
 2945682 Personer_från_Älvkarleby_socken
@@ -24219,6 +24230,7 @@
 3015423 Philopterus
 3016378 Flygplatser_i_Argentina
 3016434 Gnagarflugor
+3016597 Ej_längre_existerande_svenska_sågverk
 3016614 Insjöar_i_Köpings_kommun
 3016686 Franska_prinsar
 3016697 Franska_prinsessor
@@ -26291,7 +26303,6 @@
 3565898 Clistopyga
 3565944 Zaglyptus
 3566030 Acropimpla
-3566038 2017_i_Storbritannien
 3566078 Liotryphon
 3566131 Dolichomitus
 3566283 Scambus
@@ -27731,7 +27742,6 @@
 3902613 Insjöar_i_Hamrångeån-Testeboåns_kustområde
 3902749 Gustav_Vasa
 3903003 Världsmästare_i_bågskytte
-3904361 Världsmästerskapen_i_kanotsport
 3904613 Spelare_i_Serie_Nacional_de_Béisbol
 3904765 Wikipedia:Fikarummet
 3904994 Nyzeeländska_idrottare_under_2000-talet
@@ -27877,7 +27887,6 @@
 3922740 Personer_i_Sydkorea_under_2000-talet
 3922791 Modulära_former
 3922792 Tjeckiska_idrottare_under_1900-talet
-3922816 Europamästerskapen_i_kanotsport
 3922839 Hungaria-asteroider
 3923148 TV-program_av_Netflix
 3923268 Avlidna_2014
@@ -28613,6 +28622,7 @@
 4017895 Personer_verksamma_vid_Münchens_tekniska_universitet
 4018037 Spanska_politiker_under_1900-talet
 4018148 Cyathea
+4018202 Personer_från_Hammarby_socken,_Uppland
 4018331 Robotskapade_ormbunksartiklar
 4018339 Kärlväxter
 4019363 Österrikiska_musiker_under_1900-talet
@@ -28663,6 +28673,7 @@
 4044667 Serpocaulon
 4044891 Stenogrammitis
 4045003 Terpsichore
+4045180 Israeliska_idrottare_under_2000-talet
 4045190 Tomophyllum
 4045267 Österrikiska_musiker_under_1800-talet
 4045284 Österrikiska_musiker_under_1700-talet
@@ -30021,7 +30032,6 @@
 4525476 Svenska_sjöofficerare
 4525559 Robotskapade_brakvedsväxtartiklar
 4525560 Brakvedsväxtsynonymer
-4525621 Raseborgs_natur
 4525766 Helsingfors_natur
 4526062 Personer_verksamma_vid_Joensuu_universitet
 4526167 SS-Standartenführer
@@ -31764,6 +31774,7 @@
 4950135 Franska_militärer_under_1700-talet
 4950613 Serbiska_idrottare_under_2000-talet
 4950633 Montenegrinska_idrottare_under_2000-talet
+4950634 Ej_längre_existerande_franska_biltillverkare
 4950811 Danska_kyrkomusiker
 4951041 Irländska_skådespelare_under_1900-talet
 4951082 Belgiska_målare_under_1800-talet
@@ -31782,6 +31793,7 @@
 4952577 Kamerunska_idrottare_under_2000-talet
 4952584 Brittiska_forskare_under_2000-talet
 4952722 Danska_sångare_under_1900-talet
+4952824 Islamiska_teologer
 4952860 Medlemmar_av_Det_Kongelige_Kapel
 4953460 Svenska_journalister_under_1800-talet
 4953598 Kampen
@@ -31804,7 +31816,6 @@
 4957992 Robotskapade_artiklar_2015-04
 4958204 Cassipourea
 4958493 Robotskapade_levermossartiklar
-4958753 2021_i_USA
 4958758 Periodiska_kometer
 4959790 USA:s_marinkår
 4959948 Tävlande_vid_olympiska_vinterspelen_1928_från_Österrike
@@ -31851,6 +31862,7 @@
 4963674 Österrikiska_författare_under_1900-talet
 4963780 Tyska_professorer_i_geografi
 4963951 Astronomiska_upptäckter_av_O_Muramatsu
+4963993 Georgiska_idrottare_under_2000-talet
 4964432 Sneak_'em_up-spel
 4964678 Franska_sångare_under_2000-talet
 4964791 Svenska_arkitekter_under_1700-talet
@@ -32423,6 +32435,7 @@
 5454472 Byggnader_och_anläggningar_i_Niederösterreich
 5454476 Vattendrag_i_Niederösterreich
 5454600 Berg_i_Wien
+5455024 Vattendrag_i_Land_Salzburg
 5455249 Berg_i_Land_Salzburg
 5455278 Insjöar_i_Land_Salzburg
 5455577 Berg_i_Kärnten
@@ -32543,7 +32556,6 @@
 5553975 Robotskapade_Kanadaförgreningar
 5553978 Robotskapade_Antarktisförgreningar
 5553982 Robotskapade_Nya_Zeelandförgreningar
-5553985 Robotskapade_Österrikeförgreningar
 5553986 Robotskapade_Storbritannienförgreningar
 5553988 Robotskapade_Sydafrikaförgreningar
 5553997 Robotskapade_Bulgarienförgreningar
@@ -32589,7 +32601,6 @@
 5554187 Robotskapade_Malaysiaförgreningar
 5554191 Robotskapade_Kenyaförgreningar
 5554192 Robotskapade_Bangladeshförgreningar
-5554201 Robotskapade_Sri_Lankaförgreningar
 5554203 Robotskapade_Bermudaförgreningar
 5554219 Robotskapade_Kamerunförgreningar
 5554226 Robotskapade_Nordkoreaförgreningar
@@ -32903,7 +32914,6 @@
 5884556 Berg_i_Australien_1000_meter_över_havet_eller_högre
 5891525 Nederländska_roddare
 5894447 Rumänska_roddare
-5896247 Berg_i_Azerbajdzjan_3000_meter_över_havet_eller_högre
 5896479 Robotskapade_Kanadaartiklar
 5896483 Insjöar_i_Kanada_större_än_1_kvadratkilometer
 5896501 Slätter_i_British_Columbia
@@ -33499,6 +33509,7 @@
 6783671 Orter_i_Attika
 6784159 Kärlsjukdomar
 6785615 Självporträtt
+6785622 Målningar_på_Alte_Pinakothek
 6786303 Storkorset_av_Leopold_II:s_orden
 6786693 Mottagare_av_Webby_Awards
 6786694 Målningar_av_Lucas_Cranach_den_äldre
@@ -33611,6 +33622,7 @@
 6965715 Spelare_i_Europamästerskapet_i_fotboll_för_herrar_2016
 6965995 Robotskapade_Guadeloupeartiklar
 6965997 Vattendrag_i_Guadeloupe
+6966133 Guadeloupes_öar
 6968672 Robotskapade_Sydgeorgien_och_Sydsandwichöarnaartiklar
 6968673 Sydgeorgien_och_Sydsandwichöarnas_öar
 6968688 Berg_i_Sydgeorgien_och_Sydsandwichöarna
@@ -33754,6 +33766,7 @@
 7170266 Ishockeyspelare_i_Denver_Pioneers
 7170290 Alumner_från_University_of_Denver
 7170355 Nedlagda_järnvägsstationer_i_Stockholms_län
+7170653 Warrington
 7170678 Tävlande_i_ridsport_vid_olympiska_sommarspelen_2016
 7170679 Tävlande_vid_olympiska_sommarspelen_2016_från_Sverige
 7171156 Spelare_i_NK_Lokomotiva
@@ -34340,6 +34353,7 @@
 7981017 Finlandssvenska_skådespelare
 7981019 Avlidna_2017
 7981109 Pertunmaa
+7981566 Personer_från_Stensele_socken
 7982458 Alumner_från_North_Carolina_State_University
 7982466 Insjöar_i_Yukonflodens_avrinningsområde
 7982917 Svenska_dramaserier
@@ -34617,6 +34631,7 @@
 7996489 Skärgårdshavets_kustområde
 7996496 Finska_vikens_kustområde
 7996497 Bottenhavets_kustområde
+7996691 King_County,_Washington
 7997136 Öar_i_Hirvijärvi,_Kallioselkä,_Ahveninen_och_Suovu
 7997140 Öar_i_Ala-Siikajärvi
 7997150 Öar_i_Alvajärvi
@@ -34626,7 +34641,9 @@
 7998216 Sydkoreanska_dramaserier
 7998322 Astronomiska_upptäckter_av_T_Kojima
 7998331 Öar_i_Iisvesi,_Virmasvesi_och_Rasvanki
+7998594 Stockholm_under_1910-talet
 7998596 Stockholm_under_1970-talet
+7998606 Stockholm_under_1980-talet
 7998613 Stockholm_under_2000-talet_(decennium)
 7998614 Stockholm_under_2010-talet
 7998617 Stockholm_under_1990-talet
@@ -34727,6 +34744,7 @@
 8018399 Alumner_från_Georgetown_University
 8018400 Alumner_från_Edmund_A._Walsh_School_of_Foreign_Service
 8018401 Alumner_från_Georgetown_Law
+8019186 Gräsmalar
 8019197 Svenska_poddradioprogram
 8019261 Textilredskap
 8019280 Tyger_i_tuskaft
@@ -34868,7 +34886,9 @@
 8040592 Internationella_ishockeytävlingar_i_Schweiz
 8040598 Internationella_ishockeytävlingar_i_Polen
 8040606 Internationella_ishockeytävlingar_i_Rumänien
+8040616 Internationella_ishockeytävlingar_i_Tyskland
 8040620 Internationella_ishockeytävlingar_i_Frankrike
+8040641 Internationella_ishockeytävlingar_i_Bulgarien
 8040648 Sportevenemang_i_Sofia
 8040674 Internationella_ishockeytävlingar_i_Spanien
 8040689 Gravsatta_på_Djursholms_begravningsplats
@@ -35043,7 +35063,6 @@
 8107490 Läkare_från_Göteborg
 8107499 Journalister_från_Göteborg
 8107513 Konstnärer_från_Kalmar
-8108035 Kungliga_residens_i_Storbritannien
 8108100 Läkare_från_Stockholm
 8108103 Journalister_från_Stockholm
 8108110 Jurister_från_Stockholm
@@ -35309,7 +35328,7 @@
 8153450 Gravsatta_på_Adolf_Fredriks_kyrkogård
 8153582 Östgötska_spelmän
 8153842 Poängtabeller_för_fotbollsåret_2019
-8153900 Spelare_i_Larvik_HK
+8153900 Handbollsspelare_i_Larvik_HK
 8153930 TV-året_2019
 8153939 Personer_inom_Rysslands_näringsliv_under_1900-talet
 8153940 Personer_inom_Rysslands_näringsliv_under_2000-talet
@@ -35848,7 +35867,6 @@
 8286534 Alumner_från_Tiranas_universitet
 8286541 Alumner_från_Belgrads_universitet
 8287370 Alumner_från_Wiens_universitet
-8287417 Köpenhamn_under_1900-talet
 8287777 Internationella_sportevenemang_i_Stockholm
 8287870 Finländska_installationskonstnärer
 8288267 Oslo_under_1900-talet
@@ -35863,7 +35881,6 @@
 8295815 Internationella_sportevenemang_i_Helsingfors
 8295835 Internationella_sportevenemang_i_Oslo
 8296712 Finländska_professorer_i_kemiteknik
-8297176 London_under_1900-talet
 8297177 London_under_1800-talet
 8297333 Uradel
 8299701 Kinesiska_författare_under_2000-talet
@@ -35969,6 +35986,7 @@
 8326413 Nationsflaggor_i_Europa
 8326417 Nationsflaggor_i_Afrika
 8326420 Nationsflaggor_i_Asien
+8326542 Svenska_båtbyggare
 8326646 Målningar_med_motiv_från_Île-de-France
 8326660 Sociolingvistik
 8326662 Slanguttryck
@@ -36027,6 +36045,7 @@
 8334406 Deltagare_i_slaget_vid_Verdun
 8334562 Kolstjärnor
 8334698 Ledamöter_av_Europaparlamentet_2019–2024
+8335040 Gravsatta_på_Norra_begravningsplatsen_i_Östersund
 8335987 Stadsdelar_i_Dublin
 8336053 Astronomiska_upptäckter_av_Satoru_Otomo
 8337331 Bilfria_zoner
@@ -36056,8 +36075,6 @@
 8340199 Spelare_i_dam-VM_i_fotboll_2015
 8340285 Helsingfors_under_1900-talet
 8340287 Helsingfors_under_2000-talet
-8340477 Moskva_under_1900-talet
-8340482 Moskva_under_2000-talet
 8340656 Kasinon_i_Paradise,_Nevada
 8340662 Hotell_i_Paradise,_Nevada
 8341042 Mall:Riksdagsledamöter
@@ -36065,6 +36082,7 @@
 8342114 Rom_under_1900-talet
 8342207 Genève_under_1900-talet
 8342654 Division_II_i_ishockey
+8342856 Delstaten_New_York_under_1900-talet
 8343636 Amerikanska_spionfilmer
 8344737 Ej_längre_existerande_restauranger_i_Stockholm
 8345416 Orter_i_Central_Bedfordshire
@@ -36107,6 +36125,7 @@
 8370895 Hästar_som_vunnit_Hambletonian_Stakes
 8371323 Fjärdar_i_Egentliga_Finland
 8371748 Spanska_militärflygplan_under_kalla_kriget
+8372433 Kyrkobyggnader_helgade_åt_Kristi_förklaring
 8372931 Alumner_från_Northwestern_University
 8373276 Finländska_innehavare_av_bergsråds_titel
 8373281 Finländska_innehavare_av_kommerseråds_titel
@@ -36172,6 +36191,7 @@
 8391375 Idrottare_i_Virginia_Cavaliers
 8391621 Spelare_i_FA_Women's_Super_League
 8391879 Spelare_i_VfL_Wolfsburg_(damfotboll)
+8392493 Slaveri_i_Osmanska_riket
 8392943 Tidigare_kommuner_i_Nord-Trøndelag_fylke
 8393057 Spelare_i_FC_Liefering
 8393094 Alumner_från_University_of_California,_Santa_Cruz
@@ -36322,6 +36342,7 @@
 8433171 Sånger_framförda_av_Elvis_Presley
 8433277 Kommuner_i_storstadsregionen_Neapel
 8433329 Kommuner_i_storstadsregionen_Reggio_Calabria
+8433683 Ecuadorianska_idrottare_under_2000-talet
 8434005 Brunnsorter_i_Sverige
 8435481 Astronomiska_upptäckter_av_Farra_d'Isonzo-observatoriet
 8435571 Kommuner_i_kommunala_konsortiet_Trapani
@@ -36343,6 +36364,7 @@
 8438321 Spelare_i_Yokohama_Flügels
 8438487 Covid-19-pandemin
 8438997 Spelare_i_Kamatamare_Sanuki
+8439198 Indiska_idrottare_under_2000-talet
 8439425 Spelare_i_Azul_Claro_Numazu
 8439428 Spelare_i_FC_Imabari
 8439429 Spelare_i_Vanraure_Hachinohe
@@ -36730,7 +36752,6 @@
 8501795 Sport_i_Sverige_2008
 8501970 Sport_i_Sverige_2007
 8502015 Svenska_filmer_2021
-8502928 Personer_i_Wales_historia
 8503203 Sport_i_Sverige_2006
 8503633 Sport_i_Sverige_2005
 8503668 Sport_i_Sverige_2004
@@ -36891,6 +36912,7 @@
 8529901 Kommuner,_köpingar_och_städer_i_Landkreis_Erding
 8530238 Karl_XI:s_hov
 8530558 Kommuner,_köpingar_och_städer_i_Landkreis_Landsberg_am_Lech
+8530635 TV-serier_som_utspelar_sig_i_Washington,_D.C.
 8530884 Datorspel_som_utspelar_sig_i_Ryssland
 8530946 Kommuner,_köpingar_och_städer_i_Landkreis_Mühldorf_am_Inn
 8531076 Kommuner,_köpingar_och_städer_i_Landkreis_München
@@ -36922,7 +36944,7 @@
 8535251 Handbollsspelare_i_Skövde_HF
 8535355 Insjöar_i_Tavastehus
 8535362 Insjöar_i_Tammela
-8535493 Spelare_i_Skuru_IK_Handboll
+8535493 Handbollsspelare_i_Skuru_IK
 8535822 Alumner_från_Florida_State_University
 8535828 Idrottare_i_Florida_State_Seminoles
 8535928 Kommuner,_köpingar_och_städer_i_Landkreis_Regensburg
@@ -37128,6 +37150,7 @@
 8559509 Spelare_i_Championnat_National
 8559513 Spelare_i_Championnat_National_2
 8559514 Spelare_i_Championnat_National_3
+8559517 Spelare_i_Klubi_04
 8559723 Rotfrukter
 8560167 Insjöar_med_nordsamiska_namn
 8560233 Filmer_inspelade_i_USA
@@ -37304,6 +37327,7 @@
 8581755 Tävlande_vid_olympiska_sommarspelen_2020_från_Nederländerna
 8582038 Tävlande_i_rodd_vid_olympiska_sommarspelen_2020
 8582266 Tävlande_vid_olympiska_sommarspelen_2020_från_Mexiko
+8582298 Tävlande_vid_olympiska_sommarspelen_2020_från_Tjeckien
 8582407 Tävlande_i_simhopp_vid_olympiska_sommarspelen_2020
 8582446 Tävlande_i_kanotsport_vid_olympiska_sommarspelen_2020
 8582462 Världsmästare_i_fäktning
@@ -37389,6 +37413,7 @@
 8593265 Alumner_från_Howard_University
 8593292 Alumner_från_Pratt_Institute
 8593301 Alumner_från_University_of_Southern_California
+8593305 Alumner_från_Oklahoma_State_University
 8593310 Alumner_från_Auburn_University
 8593642 Idrottare_i_LSU_Tigers
 8593965 Släkten_Beskow
@@ -37408,6 +37433,7 @@
 8598137 Hästar_som_vunnit_Kentucky_Derby
 8598343 Alumner_från_Harvard_Medical_School
 8598382 Städer_i_Kongo-Kinshasa
+8598809 Algeriska_idrottare_under_2000-talet
 8598878 Amerikanska_professorer_i_historia
 8599178 Personer_i_Bysantinska_riket_under_400-talet
 8599355 Alumner_från_Bowdoin_College
@@ -37429,6 +37455,7 @@
 8601635 Hovrättspresidenter_i_Göta_hovrätt
 8601637 Hovrättspresidenter_i_Svea_hovrätt
 8601653 Hovrättspresidenter_i_Åbo_hovrätt
+8601724 Öar_i_Vestland_fylke
 8601734 Insjöar_i_Innlandet_fylke
 8601754 Georgiska_landslagsspelare_i_fotboll
 8601902 Regissörer_från_Malmö
@@ -37448,7 +37475,7 @@
 8606129 Ord_och_fraser_i_Koranen
 8606519 Musiker_från_Birmingham
 8606933 Handbollsspelare_i_GF_Kroppskultur
-8606935 Spelare_i_IFK_Ystad_HK
+8606935 Handbollsspelare_i_IFK_Ystad
 8607207 Hedersledamöter_vid_Hallands_nation
 8608064 Hästar_födda_2011
 8608084 Hästar_födda_2019
@@ -37570,6 +37597,7 @@
 8622785 Kinesiska_politiker_under_2000-talet
 8622858 American_Thoroughbred_Horse_of_the_Year
 8622933 Fotbollsspelare_i_Beşiktaş_JK
+8623057 Författare_från_Luleå
 8623100 Byar_i_Wonogiri
 8623222 Hästar_avlidna_2022
 8624276 ATP-touren_2022
@@ -37725,6 +37753,7 @@
 8648113 Musiker_från_Luleå
 8648295 Musiker_från_Östersund
 8648730 Volleybollspelare_i_SSC_Palmberg_Schwerin
+8649442 Jurister_från_Helsingborg
 8649728 Gravsatta_på_Limhamns_kyrkogård
 8650470 Författare_från_Moskva
 8650765 Forskare_från_Oslo
@@ -38104,6 +38133,7 @@
 8707405 Deltagare_i_Melodifestivalen_2023
 8707591 Tidigare_kommuner_i_Ontario
 8707674 Forskare_från_Eskilstuna
+8707676 Politiker_från_Eskilstuna
 8709587 Gais_säsonger
 8710030 Upplandsspelmän
 8710117 Svenska_botare
@@ -38178,7 +38208,7 @@
 8725989 Insjöar_i_Lanaudière
 8725992 Insjöar_i_Saguenay–Lac-Saint-Jean
 8725996 Insjöar_i_Mauricie
-8726001 Insjöar_i_Laurentides_(region)
+8726001 Insjöar_i_Laurentides
 8726012 Insjöar_i_Abitibi-Témiscamingue
 8726013 Insjöar_i_Côte-Nord
 8726030 Insjöar_i_Nord-du-Québec
@@ -38239,10 +38269,11 @@
 8735901 Alumner_från_Freie_Universität_Berlin
 8736560 Tidigare_civil_parishes_i_Northamptonshire
 8736811 Sport_i_Sverige_2024
+8736933 Rimito
 8737090 Gravsatta_på_Hovdestalunds_kyrkogård
 8737279 Svenska_landslagsspelare_i_volleyboll_(damer)
 8737559 Amerikanska_landslagsspelare_i_volleyboll_(damer)
-8737570 Gravsatta_på_Norra_kyrkogården_i_Karlstad
+8737570 Gravsatta_på_Ruds_kyrkogård_i_Karlstad
 8737963 Utslocknade_adelsätter
 8738368 Fissipunctia
 8739115 Svenska_landslagsspelare_i_volleyboll_(herrar)
@@ -38312,6 +38343,7 @@
 8757338 Sumpålsartade_fiskar
 8757839 Alumner_från_Royal_Military_Academy_Sandhurst
 8757918 Indre_Østfolds_kommun
+8758108 Motorsportevenemang_2024
 8758131 Orklands_kommun
 8758303 Stanley_Cup-mästare_2023
 8758926 Amerikanska_musikvideoregissörer
@@ -38517,6 +38549,7 @@
 8824206 Juniorvärldsmästare
 8824561 Tabeller_för_kvalspelet_till_världsmästerskapet_i_fotboll_2026
 8824817 Simning_vid_världsmästerskapen_i_simsport_2024
+8826750 Alumner_från_Ohio_University
 8830381 Storkorset_av_Sankt_Mikaels_och_Sankt_Georgsorden
 8830524 Riddare_av_Tistelorden
 8831073 Drakbåtstävlingar
@@ -38621,7 +38654,9 @@
 8863468 Tävlande_i_volleyboll_vid_olympiska_sommarspelen_2024
 8863471 Tävlande_i_rodd_vid_olympiska_sommarspelen_2024
 8863478 Tävlande_vid_olympiska_sommarspelen_2024_från_Danmark
+8863531 Tävlande_vid_olympiska_sommarspelen_2024_från_Tjeckien
 8863550 Tävlande_vid_olympiska_sommarspelen_2024_från_Storbritannien
+8863657 Tävlande_vid_olympiska_sommarspelen_2024_från_Grekland
 8863686 Tävlande_vid_olympiska_sommarspelen_2024_från_USA
 8863689 Tävlande_vid_olympiska_sommarspelen_2024_från_Serbien
 8863789 Tävlande_vid_olympiska_sommarspelen_2024_från_Nederländerna
@@ -38641,6 +38676,7 @@
 8864401 Tävlande_vid_olympiska_sommarspelen_2024_från_Kina
 8864444 Tävlande_vid_olympiska_sommarspelen_2024_från_Nya_Zeeland
 8864561 Tävlande_vid_olympiska_sommarspelen_2024_från_Sydafrika
+8864563 Tävlande_vid_olympiska_sommarspelen_2024_från_Sydkorea
 8865179 TV-serier_från_Paramount_Television
 8865851 Metro_Vancouver_Regional_District
 8869148 Olympiska_guldmedaljörer_2024
@@ -38663,3 +38699,11 @@
 8875595 Tachyspiza
 8875709 Lagmän_i_tingsrätter_i_Sverige
 8876821 Psykologiska_teoretiker
+8877169 Avrättade_kommunister
+8878714 Kyrkobyggnader_helgade_åt_Olof_den_helige
+8878960 Statschefers_residens
+8879464 Personer_från_Lycksele_socken
+8879718 Tidigare_kommuner_i_New_South_Wales
+8880254 Primera_B_de_Chile
+8880767 Sprintvärldsmästerskapen_i_kanotsport
+8880789 Slalomvärldsmästerskapen_i_kanotsport

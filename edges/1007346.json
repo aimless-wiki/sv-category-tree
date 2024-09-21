@@ -1,1 +1,1 @@
-{"name": "Mat_och_dryck_i_Kina", "id": 1007346, "predecessors": [{"name": "Kultur_i_Kina", "id": 738040}, {"name": "Hälsa", "id": 335075}, {"name": "Jorden", "id": 227559}], "successors": []}
+{"name": "Mat_och_dryck_i_Kina", "id": 1007346, "predecessors": [{"name": "Kultur_i_Kina", "id": 738040}, {"name": "Hälsa", "id": 335075}, {"name": "Jorden", "id": 227559}], "successors": [{"name": "Kinesiska_maträtter", "id": 1156504}]}

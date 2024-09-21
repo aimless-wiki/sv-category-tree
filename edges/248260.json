@@ -1,1 +1,1 @@
-{"name": "Kärnfysik", "id": 248260, "predecessors": [{"name": "Fysik", "id": 50448}], "successors": [{"name": "Kärnteknik", "id": 150135}, {"name": "Radioaktivitet", "id": 607130}]}
+{"name": "Kärnfysik", "id": 248260, "predecessors": [{"name": "Academica", "id": 74905}], "successors": [{"name": "Kärnteknik", "id": 150135}, {"name": "Radioaktivitet", "id": 607130}]}

@@ -1,1 +1,1 @@
-{"name": "Tyska_professorer_i_botanik", "id": 4893541, "predecessors": [{"name": "Biologi", "id": 50632}, {"name": "Tyska_professorer", "id": 341088}], "successors": []}
+{"name": "Tyska_professorer_i_botanik", "id": 4893541, "predecessors": [{"name": "Tyska_botaniker", "id": 296917}, {"name": "Biologi", "id": 50632}, {"name": "Tyska_professorer", "id": 341088}], "successors": []}

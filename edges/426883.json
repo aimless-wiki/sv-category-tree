@@ -1,1 +1,1 @@
-{"name": "Sportevenemang_i_Kalifornien", "id": 426883, "predecessors": [{"name": "Sport_i_Kalifornien", "id": 398264}, {"name": "Sportevenemang_i_USA", "id": 426795}, {"name": "Kalifornien", "id": 55539}], "successors": [{"name": "USA:s_Grand_Prix_West", "id": 320506}, {"name": "Sportevenemang_i_Los_Angeles", "id": 8043552}, {"name": "BNP_Paribas_Open", "id": 8636381}]}
+{"name": "Sportevenemang_i_Kalifornien", "id": 426883, "predecessors": [{"name": "Geografi", "id": 51163}, {"name": "USA:s_delstater", "id": 54069}, {"name": "Naturgeografi", "id": 111478}], "successors": []}

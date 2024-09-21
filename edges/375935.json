@@ -1,1 +1,1 @@
-{"name": "Ishockeyspel", "id": 375935, "predecessors": [{"name": "Sportspel", "id": 327643}, {"name": "Sport", "id": 55124}], "successors": []}
+{"name": "Ishockeyspel", "id": 375935, "predecessors": [{"name": "Sportspel", "id": 327643}, {"name": "Sport", "id": 55124}], "successors": [{"name": "Datorspel_baserade_på_Svenska_hockeyligan", "id": 1207137}]}

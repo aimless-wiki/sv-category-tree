@@ -1,1 +1,1 @@
-{"name": "Spektroskopi", "id": 410492, "predecessors": [{"name": "Analytisk_kemi", "id": 196776}, {"name": "Fysikalisk_kemi", "id": 323701}, {"name": "Fysik", "id": 50448}], "successors": []}
+{"name": "Spektroskopi", "id": 410492, "predecessors": [{"name": "Analytisk_kemi", "id": 196776}, {"name": "Fysikalisk_kemi", "id": 323701}, {"name": "Academica", "id": 74905}], "successors": []}
