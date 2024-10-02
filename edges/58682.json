@@ -1,1 +1,1 @@
-{"name": "Maffia", "id": 58682, "predecessors": [{"name": "Internationell_organiserad_brottslighet", "id": 1118271}, {"name": "Organiserad_brottslighet", "id": 363432}], "successors": [{"name": "Maffiafilmer", "id": 787018}]}
+{"name": "Maffia", "id": 58682, "predecessors": [{"name": "Internationell_organiserad_brottslighet", "id": 1118271}, {"name": "Brott", "id": 85210}], "successors": [{"name": "Maffiafilmer", "id": 787018}]}
