@@ -1,1 +1,1 @@
-{"name": "Danska_sångtextförfattare", "id": 255774, "predecessors": [{"name": "Danska_författare", "id": 55017}, {"name": "Författare", "id": 51531}], "successors": [{"name": "Danska_psalmförfattare", "id": 512849}]}
+{"name": "Danska_sångtextförfattare", "id": 255774, "predecessors": [{"name": "Danska_författare", "id": 55017}, {"name": "Litterära_genrer", "id": 297494}], "successors": [{"name": "Danska_psalmförfattare", "id": 512849}]}
