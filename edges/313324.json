@@ -1,1 +1,1 @@
-{"name": "Hotell_i_Sverige", "id": 313324, "predecessors": [{"name": "Turism_i_Sverige", "id": 445084}, {"name": "Arkitektur_i_Sverige", "id": 567321}, {"name": "Hotell", "id": 135466}], "successors": [{"name": "Hotell_i_Stockholm", "id": 914467}]}
+{"name": "Hotell_i_Sverige", "id": 313324, "predecessors": [{"name": "Turism_i_Sverige", "id": 445084}, {"name": "Arkitektur_i_Sverige", "id": 567321}, {"name": "Hotell", "id": 135466}], "successors": [{"name": "Stadshotell", "id": 3537535}, {"name": "Hotell_i_Stockholm", "id": 914467}]}

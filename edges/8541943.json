@@ -1,1 +1,1 @@
-{"name": "Slavhandel", "id": 8541943, "predecessors": [{"name": "Handel", "id": 117575}, {"name": "Slaveri", "id": 154311}, {"name": "Brott", "id": 85210}], "successors": [{"name": "Muhammed", "id": 871171}, {"name": "Afrikanska_slavhandlare", "id": 8801505}]}
+{"name": "Slavhandel", "id": 8541943, "predecessors": [{"name": "Handel", "id": 117575}, {"name": "Slaveri", "id": 154311}, {"name": "Brott", "id": 85210}], "successors": [{"name": "Slavhandlare", "id": 3939493}, {"name": "Afrikanska_slavhandlare", "id": 8801505}]}
