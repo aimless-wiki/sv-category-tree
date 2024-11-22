@@ -1,1 +1,1 @@
-{"name": "Piloter", "id": 800774, "predecessors": [{"name": "Yrken", "id": 55583}, {"name": "Flyg", "id": 60557}], "successors": []}
+{"name": "Piloter", "id": 800774, "predecessors": [{"name": "Yrken", "id": 55583}, {"name": "Flyg", "id": 60557}], "successors": [{"name": "Stridspiloter", "id": 908958}]}
