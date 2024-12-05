@@ -444,7 +444,6 @@
 59751 Landshövdingar_i_Norrbottens_län
 59754 Landshövdingar_i_Kopparbergs_län
 59755 Landshövdingar_i_Skaraborgs_län
-59817 Norrköpings_kommun
 59883 Finlands_kommuner
 59898 Regentnamn
 59927 Unioner
@@ -893,6 +892,7 @@
 86017 Arabiskspråkiga_författare
 86032 Svenska_TV-program
 86039 Amerikanska_tennisspelare
+86054 Mesopotamisk_mytologi
 86145 Brittiska_skulptörer
 86249 Jupiters_månar
 86250 Uranus_månar
@@ -2786,7 +2786,7 @@
 245559 Tjeckiskspråkiga_författare
 245757 Resandefolket
 245821 Equisetum
-245860 Svenska_curlare
+245860 Svenska_curlingspelare
 245910 Enhjärtbladiga_växter
 245912 Trikolpater
 246001 Verbenaväxter
@@ -2978,7 +2978,6 @@
 255303 Physalis
 255359 Mercuryprogrammet
 255379 Sverigefinländare
-255391 Nyhetsbyråer
 255683 Födda_1755
 255684 Avlidna_1824
 255694 Födda_1583
@@ -3959,6 +3958,7 @@
 295275 Avlidna_1565
 295567 Camellia
 295596 Svenska_slag_under_trettioåriga_kriget
+295633 Schweiziska_curlingspelare
 295672 IFK_Göteborg
 296003 Födda_200-talet
 296121 Italienska_alpina_skidåkare
@@ -5893,7 +5893,6 @@
 512797 Tyska_ornitologer
 512803 Sportklubbar_i_Norrköpings_kommun
 512812 Bibelforskare
-512821 Norrköping
 512822 Österrikiska_dirigenter
 512824 Astronomimallar
 512849 Danska_psalmförfattare
@@ -6301,13 +6300,11 @@
 522332 Livealbum
 522417 Norska_myndigheter
 522433 Kreationister
-522434 Motala
 522436 Botrychium
 522440 Romerska_kejsarinnor
 522448 Brittiska_dramatiker
 522478 Mottagare_av_prinsen_respektive_prinsessan_av_Asturiens_pris
 522490 Fröken_Sverige
-522846 Sport_i_Norrköping
 523041 Svenska_telekommunikationsföretag
 523129 Byggnadsmaterial
 523263 Impatiens
@@ -7812,6 +7809,7 @@
 698304 Dystopisk_litteratur
 698309 Dystopisk_film
 698323 Brukshundar
+698350 Västmanlands_runinskrifter
 698371 Gotlands_runinskrifter
 698388 Smålands_runinskrifter
 698394 Runinskrifter_i_Danmark
@@ -8412,7 +8410,6 @@
 770349 Kalciumföreningar
 770522 Svenska_skolfartyg
 770798 Jättar_i_nordisk_mytologi
-771038 Stålbyggnadsföretag
 771267 Engelska_efternamn
 771437 Musikåret_2005
 771438 Musikåret_2006
@@ -10001,7 +9998,6 @@
 958028 Farleder_i_Stockholms_skärgård
 958045 Sveriges_navigationsrutor
 958128 Karl_Gerhard
-958927 Buddhistiska_tempel
 959310 Rysslands_kejsarinnor
 959803 Franska_seglare
 959819 Skotsk_whisky
@@ -10840,6 +10836,7 @@
 1029301 1963_i_USA
 1029328 USA_under_1800-talet
 1029398 2010_i_USA
+1029447 1961_i_USA
 1029448 1965_i_USA
 1029450 1966_i_USA
 1029451 1967_i_USA
@@ -11411,6 +11408,7 @@
 1073449 Sveriges_herrlandslag_i_fotboll
 1073605 Svenska_videokonstnärer
 1073612 Alumner_från_Moskvauniversitetet
+1073844 Ishockeymålvakter_i_Frölunda_HC
 1074232 Lagstiftande_församlingar_efter_land
 1074367 Ej_längre_existerande_byggnader_i_Sverige
 1074430 Historiska_domstolsbyggnader_i_Sverige
@@ -12828,6 +12826,7 @@
 1219419 Statmallen
 1219545 Fornminnen_i_Småland
 1220011 Norska_målare
+1220810 Kommunism_i_Kina
 1220811 Nynazism_i_Sverige
 1220838 Nazism_i_Sverige
 1221805 Album_av_Mike_Oldfield
@@ -14394,7 +14393,6 @@
 1473345 Fartyg_byggda_i_Göteborg
 1473346 Fartyg_byggda_i_Oskarshamn
 1473348 Fartyg_byggda_i_Malmö
-1473560 Fartyg_byggda_i_Norrköping
 1473830 Medicinska_symtom_från_respirationssystemet
 1473836 Hudmanifestationer
 1473865 Neurologiska_manifestationer
@@ -14684,7 +14682,6 @@
 1490617 Personer_från_Seoul
 1490624 Personer_från_Aichi_prefektur
 1490652 Personer_från_Ferrara
-1490656 Personer_från_Emilia-Romagna
 1490721 Finländska_låtskrivare
 1490753 Spelartruppsmallar-Chile
 1490758 Spelartruppsmallar-Tyskland
@@ -14841,7 +14838,6 @@
 1498910 Personer_från_Fredrikshamn
 1498934 Personer_från_Bologna
 1498937 Personer_från_Pisa
-1498942 Personer_från_Toscana
 1499014 Personer_från_Miami
 1499037 Personer_från_Skien
 1499311 Personer_från_Strassburg
@@ -15083,7 +15079,6 @@
 1510126 Tyska_författare_av_barn-_och_ungdomslitteratur
 1510127 Engelskspråkiga_författare_av_barn-_och_ungdomslitteratur
 1510187 Personer_från_Kent
-1510237 Personer_från_Lombardiet
 1510241 Historiska_svenska_riksdagspartier
 1510364 Personer_från_Ludvika
 1510379 Personer_från_Mora
@@ -15918,7 +15913,6 @@
 1596003 Kommuner_i_Maine-et-Loire
 1596028 Finländska_schlagersångare
 1596039 Kommuner_i_Manche
-1596353 Musikgrupper_från_Norrköping
 1596361 Kommuner_i_Marne
 1596396 Kommuner_i_Haute-Marne
 1596435 Marktimalior
@@ -24015,7 +24009,6 @@
 2967989 Nychiodes
 2968155 Metarranthis
 2968207 Percnia
-2968526 Nyssia
 2968574 Physocleora
 2968684 Plagodis
 2968947 Psilocerea
@@ -28531,6 +28524,7 @@
 3985082 Jockas
 3985083 Virdois
 3985086 Ranua
+3985172 Sportevenemang_i_Helsingborg
 3985174 Sportevenemang_i_Malmö
 3985204 Sportevenemang_i_Uppsala
 3985219 Taivalkoski
@@ -32235,6 +32229,7 @@
 5071946 Spelare_i_RB_Leipzig
 5072427 Landsfiskalsdistrikt_i_Skaraborgs_län
 5073053 Landsfiskalsdistrikt_i_Malmöhus_län
+5073196 Ishockeyspelare_i_Western_Michigan_Broncos
 5073199 Alumner_från_Western_Michigan_University
 5073206 Grafton_County
 5073220 Politiker_från_Uppsala
@@ -32365,7 +32360,7 @@
 5180925 Bukter_i_Västantarktis
 5183124 Robotskapade_Förenade_arabemiratenartiklar
 5183259 Öar_i_Abu_Dhabi_(emirat)
-5183285 Berg_i_Fujairah
+5183285 Berg_i_Fujayra
 5195217 Distrikt_i_provinsen_Badakhshan
 5203125 Kris-_och_katastrofberedskap
 5210236 Ribbing
@@ -32418,7 +32413,7 @@
 5368319 Robotskapade_Syrienartiklar
 5370400 Indelningar_i_Tartus_(provins)
 5370529 Indelningar_i_Homs_(provins)
-5372568 Indelningar_i_Hamah_(provins)
+5372568 Indelningar_i_Hama_(provins)
 5373351 Rione_Campitelli
 5373432 Stanley_Cup-mästare_2003
 5373539 Stanley_Cup-mästare_2002
@@ -34152,12 +34147,8 @@
 7700050 Indelningar_i_Sinoe_County
 7700052 Indelningar_i_River_Gee_County
 7700055 Indelningar_i_Grand_Kru_County
-7700064 Indelningar_i_Lofa_County
-7700108 Indelningar_i_Grand_Cape_Mount_County
-7700124 Indelningar_i_Montserrado_County
 7700150 Indelningar_i_Grand_Bassa_County
 7700164 Indelningar_i_Grand_Gedeh_County
-7700258 Indelningar_i_River_Cess_County
 7703145 Musiker_från_Gävle
 7703233 Skådespelare_från_Gävle
 7703254 Politiker_från_Gävle
@@ -35086,6 +35077,7 @@
 8092903 Svenskspråkiga_tidskrifter_grundade_på_1800-talet
 8093013 Spelare_i_Belleville_Senators
 8093645 Alumner_från_London_School_of_Economics
+8093717 Titulära_lagmän_i_Sverige
 8094074 Amerikanska_thriller-TV-serier
 8094124 Slottslän_i_Sverige
 8094208 Svenska_militärer_under_1500-talet
@@ -35831,6 +35823,7 @@
 8263792 Danska_rösträttskvinnor
 8263796 Amerikanska_rösträttskvinnor
 8263798 Brittiska_rösträttskvinnor
+8263843 Sydsamer
 8263895 Amerikanska_miljardärer
 8264282 Amerikanska_redaktörer
 8264481 Svenska_filmer_2019
@@ -36286,6 +36279,7 @@
 8396860 Tidigare_kommuner_i_Nordland_fylke
 8397487 Alumner_från_University_of_Iowa
 8397618 Alumner_från_University_of_South_Carolina
+8398360 Beninska_friidrottare
 8398646 Kommuner_i_Agder_fylke
 8398677 Civil_parishes_i_East_Sussex
 8398795 Avlidna_2020
@@ -36932,10 +36926,14 @@
 8517908 Filmatiseringar_av_Dracula
 8518142 Amerikanska_transpersoner
 8518274 Svenska_dramatiker_under_2000-talet
+8518291 Fartyg_byggda_på_Lindholmens_varv
+8518314 Fartyg_byggda_på_Eriksbergs_Mekaniska_Verkstad
 8518668 Konstnärsmodeller
 8518871 Alumner_från_King's_College_London
 8519061 Svenska_astronomer_under_1900-talet
 8519075 Forskare_från_Michigan
+8519164 Fartyg_byggda_på_Motala_varv,_Norrköping
+8519167 Fartyg_byggda_på_Motala_verkstad
 8519342 Akademiker_(Finland)
 8519343 Konstens_akademiker
 8519374 Personer_från_Arvidsjaurs_socken
@@ -37103,6 +37101,7 @@
 8543947 Kommuner,_köpingar_och_städer_i_Landkreis_Dillingen_an_der_Donau
 8544168 Amerikanska_filosofer_under_2000-talet
 8544204 Kommuner,_köpingar_och_städer_i_Landkreis_Günzburg
+8544658 Svenska_värvade_infanteriförband
 8544682 Kommuner,_köpingar_och_städer_i_Landkreis_Ostallgäu
 8544692 Italienska_astronomer_under_1900-talet
 8545089 Kommuner,_köpingar_och_städer_i_Landkreis_Unterallgäu
@@ -37768,6 +37767,7 @@
 8631183 Volleybollspelare_i_Rio_de_Janeiro_Vôlei_Clube
 8631244 Musiker_från_Memphis
 8631256 Svenska_flöjtister_under_1900-talet
+8631295 Tävlande_i_curling_vid_olympiska_vinterspelen_2022
 8631394 Svenska_dragspelare_under_1900-talet
 8631395 Svenska_dragspelare_under_2000-talet
 8631751 Kulturella_återgivningar_av_Maria_från_Magdala
@@ -38078,6 +38078,7 @@
 8674575 Alumner_från_USC_School_of_Dramatic_Arts
 8674605 Alumner_från_UCLA_School_of_Theater,_Film_and_Television
 8674610 Alumner_från_Sarah_Lawrence_College
+8674799 Alumner_från_National_War_College
 8674836 Communities_i_Flintshire
 8674859 Regissörer_från_Göteborg
 8674998 Communities_i_Gwynedd
@@ -38843,4 +38844,9 @@
 8890654 Svenska_sportklubbar_i_Finland
 8893023 Saeculum_obscurum
 8893416 Tvåspråkiga_kommuner_i_Québec
+8895036 Söder,_Halmstad
 8895037 Navigationsrutor_för_olympiska_mästare_i_simning
+8896837 Stadsdelar_i_Motala
+8896856 Motala_Verkstad
+8898006 Deltagare_i_Melodifestivalen_2025
+8899307 Hinduiska_gudinnor
